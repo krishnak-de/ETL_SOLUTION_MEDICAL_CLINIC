@@ -1,0 +1,1001 @@
+VisitDate,ClinicName,ClinicCity,ClinicState,PatientFullName,PatientCity,PatientState,DoctorFullName,ProcedureName,ProcedureVisitCharge
+2005-01-01,Kirkland,Kirkland,WA,Dominic Christie,Bellevue,WA,Ben Goldstein,Skel xray-ankle & foot,345.0
+2005-01-01,Kirkland,Kirkland,WA,Dominic Christie,Bellevue,WA,Ben Goldstein,Skel xray-ankle & foot,345.0
+2005-01-01,Kirkland,Kirkland,WA,Dominic Christie,Bellevue,WA,Ben Goldstein,Skel xray-ankle & foot,345.0
+2005-01-01,Kirkland,Kirkland,WA,Dominic Christie,Bellevue,WA,Ben Goldstein,Skel xray-ankle & foot,345.0
+2005-01-01,Bellevue,Bellevue,WA,Thomas Vargas,Lynnwood,WA,Michael John Greer," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-01,Bellevue,Bellevue,WA,Thomas Vargas,Lynnwood,WA,Michael John Greer," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-01,Bellevue,Bellevue,WA,Thomas Vargas,Lynnwood,WA,Michael John Greer," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-01,Bellevue,Bellevue,WA,Thomas Vargas,Lynnwood,WA,Michael John Greer," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-01,Bellevue,Bellevue,WA,Michael Houston,Bellevue,WA,Michael John Greer,Other skeletal x-ray,788.0
+2005-01-01,Bellevue,Bellevue,WA,Michael Houston,Bellevue,WA,Michael John Greer,Other skeletal x-ray,788.0
+2005-01-01,Bellevue,Bellevue,WA,Michael Houston,Bellevue,WA,Michael John Greer,Other skeletal x-ray,788.0
+2005-01-01,Bellevue,Bellevue,WA,Michael Houston,Bellevue,WA,Michael John Greer,Other skeletal x-ray,788.0
+2005-01-01,Redmond,Redmond,WA,Christopher Goktepe,Bellevue,WA,Ben Goldstein,Dx ultrasound-heart,588.0
+2005-01-01,Redmond,Redmond,WA,Christopher Goktepe,Bellevue,WA,Ben Goldstein,Dx ultrasound-heart,588.0
+2005-01-01,Redmond,Redmond,WA,Christopher Goktepe,Bellevue,WA,Ben Goldstein,Dx ultrasound-heart,588.0
+2005-01-01,Redmond,Redmond,WA,Christopher Goktepe,Bellevue,WA,Ben Goldstein,Dx ultrasound-heart,588.0
+2005-01-01,Bellevue,Bellevue,WA,Margaret Liu,Redmond,WA,Michael John Greer,Contrast arthrogram,238.0
+2005-01-01,Bellevue,Bellevue,WA,Margaret Liu,Redmond,WA,Michael John Greer,Contrast arthrogram,238.0
+2005-01-01,Bellevue,Bellevue,WA,Margaret Liu,Redmond,WA,Michael John Greer,Contrast arthrogram,238.0
+2005-01-01,Bellevue,Bellevue,WA,Margaret Liu,Redmond,WA,Michael John Greer,Contrast arthrogram,238.0
+2005-01-01,Kirkland,Kirkland,WA,Yvonne Lewin,Bothell,WA,Ben Goldstein,Ther ult peripheral ves,435.0
+2005-01-01,Kirkland,Kirkland,WA,Yvonne Lewin,Bothell,WA,Ben Goldstein,Ther ult peripheral ves,435.0
+2005-01-01,Kirkland,Kirkland,WA,Yvonne Lewin,Bothell,WA,Ben Goldstein,Ther ult peripheral ves,435.0
+2005-01-01,Kirkland,Kirkland,WA,Yvonne Lewin,Bothell,WA,Ben Goldstein,Ther ult peripheral ves,435.0
+2005-01-01,Kirkland,Kirkland,WA,Anton Desalvo,Bellevue,WA,Ben Goldstein,IVUS intrathoracic ves,568.0
+2005-01-01,Kirkland,Kirkland,WA,Anton Desalvo,Bellevue,WA,Ben Goldstein,IVUS intrathoracic ves,568.0
+2005-01-01,Kirkland,Kirkland,WA,Anton Desalvo,Bellevue,WA,Ben Goldstein,IVUS intrathoracic ves,568.0
+2005-01-01,Kirkland,Kirkland,WA,Anton Desalvo,Bellevue,WA,Ben Goldstein,IVUS intrathoracic ves,568.0
+2005-01-01,Kirkland,Kirkland,WA,Thierry Blanco,Redmond,WA,Ben Goldstein,Abdominal x-ray NEC,342.0
+2005-01-01,Kirkland,Kirkland,WA,Thierry Blanco,Redmond,WA,Ben Goldstein,Abdominal x-ray NEC,342.0
+2005-01-01,Kirkland,Kirkland,WA,Thierry Blanco,Redmond,WA,Ben Goldstein,Abdominal x-ray NEC,342.0
+2005-01-01,Kirkland,Kirkland,WA,Thierry Blanco,Redmond,WA,Ben Goldstein,Abdominal x-ray NEC,342.0
+2005-01-01,Kirkland,Kirkland,WA,Joy Cereghino,Redmond,WA,Ben Goldstein,Skel xray-elbow/forearm,388.0
+2005-01-01,Kirkland,Kirkland,WA,Joy Cereghino,Redmond,WA,Ben Goldstein,Skel xray-elbow/forearm,388.0
+2005-01-01,Kirkland,Kirkland,WA,Joy Cereghino,Redmond,WA,Ben Goldstein,Skel xray-elbow/forearm,388.0
+2005-01-01,Kirkland,Kirkland,WA,Joy Cereghino,Redmond,WA,Ben Goldstein,Skel xray-elbow/forearm,388.0
+2005-01-01,Redmond,Redmond,WA,Janet Corets,Bellevue,WA,Lee Casts,Ther ultrasound of heart,438.0
+2005-01-01,Redmond,Redmond,WA,Janet Corets,Bellevue,WA,Lee Casts,Ther ultrasound of heart,438.0
+2005-01-01,Redmond,Redmond,WA,Janet Corets,Bellevue,WA,Lee Casts,Ther ultrasound of heart,438.0
+2005-01-01,Redmond,Redmond,WA,Janet Corets,Bellevue,WA,Lee Casts,Ther ultrasound of heart,438.0
+2005-01-01,Redmond,Redmond,WA,Keith Jordan,Redmond,WA,Ben Goldstein,Interview & evaluat NEC,188.0
+2005-01-01,Redmond,Redmond,WA,Keith Jordan,Redmond,WA,Ben Goldstein,Interview & evaluat NEC,188.0
+2005-01-01,Redmond,Redmond,WA,Keith Jordan,Redmond,WA,Ben Goldstein,Interview & evaluat NEC,188.0
+2005-01-01,Redmond,Redmond,WA,Keith Jordan,Redmond,WA,Ben Goldstein,Interview & evaluat NEC,188.0
+2005-01-01,Redmond,Redmond,WA,Christian Calafato,Lynnwood,WA,Ben Goldstein,Comprehensive consultattation,288.0
+2005-01-01,Redmond,Redmond,WA,Christian Calafato,Lynnwood,WA,Ben Goldstein,Comprehensive consultattation,288.0
+2005-01-01,Redmond,Redmond,WA,Christian Calafato,Lynnwood,WA,Ben Goldstein,Comprehensive consultattation,288.0
+2005-01-01,Redmond,Redmond,WA,Christian Calafato,Lynnwood,WA,Ben Goldstein,Comprehensive consultattation,288.0
+2005-01-01,Bellevue,Bellevue,WA,Margaret Stenerson,Redmond,WA,George Abercrombie,Skel xray-thigh/knee/leg,452.0
+2005-01-01,Bellevue,Bellevue,WA,Margaret Stenerson,Redmond,WA,George Abercrombie,Skel xray-thigh/knee/leg,452.0
+2005-01-01,Bellevue,Bellevue,WA,Margaret Stenerson,Redmond,WA,George Abercrombie,Skel xray-thigh/knee/leg,452.0
+2005-01-01,Bellevue,Bellevue,WA,Margaret Stenerson,Redmond,WA,George Abercrombie,Skel xray-thigh/knee/leg,452.0
+2005-01-01,Redmond,Redmond,WA,Sandeep Benson,Redmond,WA,Ben Goldstein,Dx ultrasound-digestive,388.0
+2005-01-01,Redmond,Redmond,WA,Sandeep Benson,Redmond,WA,Ben Goldstein,Dx ultrasound-digestive,388.0
+2005-01-01,Redmond,Redmond,WA,Sandeep Benson,Redmond,WA,Ben Goldstein,Dx ultrasound-digestive,388.0
+2005-01-01,Redmond,Redmond,WA,Sandeep Benson,Redmond,WA,Ben Goldstein,Dx ultrasound-digestive,388.0
+2005-01-02,Bellevue,Bellevue,WA,Margaret Goldstein,Bellevue,WA,Kevin Mitchell,IVUS extracran cereb ves,448.0
+2005-01-02,Bellevue,Bellevue,WA,Margaret Goldstein,Bellevue,WA,Kevin Mitchell,IVUS extracran cereb ves,448.0
+2005-01-02,Bellevue,Bellevue,WA,Margaret Goldstein,Bellevue,WA,Kevin Mitchell,IVUS extracran cereb ves,448.0
+2005-01-02,Bellevue,Bellevue,WA,Margaret Goldstein,Bellevue,WA,Kevin Mitchell,IVUS extracran cereb ves,448.0
+2005-01-02,Bellevue,Bellevue,WA,Stanley McPhearson,Lynnwood,WA,Elizabeth Berndt,Upper limb lymphangiogrm,348.0
+2005-01-02,Bellevue,Bellevue,WA,Stanley McPhearson,Lynnwood,WA,Elizabeth Berndt,Upper limb lymphangiogrm,348.0
+2005-01-02,Bellevue,Bellevue,WA,Stanley McPhearson,Lynnwood,WA,Elizabeth Berndt,Upper limb lymphangiogrm,348.0
+2005-01-02,Bellevue,Bellevue,WA,Stanley McPhearson,Lynnwood,WA,Elizabeth Berndt,Upper limb lymphangiogrm,348.0
+2005-01-02,Bellevue,Bellevue,WA,Vanessa Caldwell,Woodnville,WA,Elizabeth Berndt,IVUS extracran cereb ves,448.0
+2005-01-02,Bellevue,Bellevue,WA,Vanessa Caldwell,Woodnville,WA,Elizabeth Berndt,IVUS extracran cereb ves,448.0
+2005-01-02,Bellevue,Bellevue,WA,Vanessa Caldwell,Woodnville,WA,Elizabeth Berndt,IVUS extracran cereb ves,448.0
+2005-01-02,Bellevue,Bellevue,WA,Vanessa Caldwell,Woodnville,WA,Elizabeth Berndt,IVUS extracran cereb ves,448.0
+2005-01-02,Kirkland,Kirkland,WA,Nieves Kim,Redmond,WA,Elizabeth Berndt,Limited consultation,288.0
+2005-01-02,Kirkland,Kirkland,WA,Nieves Kim,Redmond,WA,Elizabeth Berndt,Limited consultation,288.0
+2005-01-02,Kirkland,Kirkland,WA,Nieves Kim,Redmond,WA,Elizabeth Berndt,Limited consultation,288.0
+2005-01-02,Kirkland,Kirkland,WA,Nieves Kim,Redmond,WA,Elizabeth Berndt,Limited consultation,288.0
+2005-01-02,Bellevue,Bellevue,WA,Rose Cavendish,Lynnwood,WA,Elizabeth Berndt,IVUS coronary vessels,488.0
+2005-01-02,Bellevue,Bellevue,WA,Rose Cavendish,Lynnwood,WA,Elizabeth Berndt,IVUS coronary vessels,488.0
+2005-01-02,Bellevue,Bellevue,WA,Rose Cavendish,Lynnwood,WA,Elizabeth Berndt,IVUS coronary vessels,488.0
+2005-01-02,Bellevue,Bellevue,WA,Rose Cavendish,Lynnwood,WA,Elizabeth Berndt,IVUS coronary vessels,488.0
+2005-01-02,Redmond,Redmond,WA,Clarence Byham,Redmond,WA,Laura German,Skel xray-lower limb NOS,538.0
+2005-01-02,Redmond,Redmond,WA,Clarence Byham,Redmond,WA,Laura German,Skel xray-lower limb NOS,538.0
+2005-01-02,Redmond,Redmond,WA,Clarence Byham,Redmond,WA,Laura German,Skel xray-lower limb NOS,538.0
+2005-01-02,Redmond,Redmond,WA,Clarence Byham,Redmond,WA,Laura German,Skel xray-lower limb NOS,538.0
+2005-01-02,Bellevue,Bellevue,WA,Betty Michaels,Redmond,WA,Kevin Mitchell,Pelvimetry,488.0
+2005-01-02,Bellevue,Bellevue,WA,Betty Michaels,Redmond,WA,Kevin Mitchell,Pelvimetry,488.0
+2005-01-02,Bellevue,Bellevue,WA,Betty Michaels,Redmond,WA,Kevin Mitchell,Pelvimetry,488.0
+2005-01-02,Bellevue,Bellevue,WA,Betty Michaels,Redmond,WA,Kevin Mitchell,Pelvimetry,488.0
+2005-01-02,Bellevue,Bellevue,WA,Keith Harui,Redmond,WA,Kevin Mitchell,IVUS peripheral vessels,488.0
+2005-01-02,Bellevue,Bellevue,WA,Keith Harui,Redmond,WA,Kevin Mitchell,IVUS peripheral vessels,488.0
+2005-01-02,Bellevue,Bellevue,WA,Keith Harui,Redmond,WA,Kevin Mitchell,IVUS peripheral vessels,488.0
+2005-01-02,Bellevue,Bellevue,WA,Keith Harui,Redmond,WA,Kevin Mitchell,IVUS peripheral vessels,488.0
+2005-01-02,Kirkland,Kirkland,WA,Dylan Byham,Bellevue,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-02,Kirkland,Kirkland,WA,Dylan Byham,Bellevue,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-02,Kirkland,Kirkland,WA,Dylan Byham,Bellevue,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-02,Kirkland,Kirkland,WA,Dylan Byham,Bellevue,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-02,Redmond,Redmond,WA,Gary Alexander,Redmond,WA,Laura German,X-ray NEC and NOS,188.0
+2005-01-02,Redmond,Redmond,WA,Gary Alexander,Redmond,WA,Laura German,X-ray NEC and NOS,188.0
+2005-01-02,Redmond,Redmond,WA,Gary Alexander,Redmond,WA,Laura German,X-ray NEC and NOS,188.0
+2005-01-02,Redmond,Redmond,WA,Gary Alexander,Redmond,WA,Laura German,X-ray NEC and NOS,188.0
+2005-01-02,Kirkland,Kirkland,WA,Dominic Christie,Bellevue,WA,Kevin Mitchell,Consultation NEC,288.0
+2005-01-02,Kirkland,Kirkland,WA,Dominic Christie,Bellevue,WA,Kevin Mitchell,Consultation NEC,288.0
+2005-01-02,Kirkland,Kirkland,WA,Dominic Christie,Bellevue,WA,Kevin Mitchell,Consultation NEC,288.0
+2005-01-02,Kirkland,Kirkland,WA,Dominic Christie,Bellevue,WA,Kevin Mitchell,Consultation NEC,288.0
+2005-01-02,Bellevue,Bellevue,WA,John McLin,Mill Creek,WA,Elizabeth Berndt,Up limb sft tis xray NEC,788.0
+2005-01-02,Bellevue,Bellevue,WA,John McLin,Mill Creek,WA,Elizabeth Berndt,Up limb sft tis xray NEC,788.0
+2005-01-02,Bellevue,Bellevue,WA,John McLin,Mill Creek,WA,Elizabeth Berndt,Up limb sft tis xray NEC,788.0
+2005-01-02,Bellevue,Bellevue,WA,John McLin,Mill Creek,WA,Elizabeth Berndt,Up limb sft tis xray NEC,788.0
+2005-01-02,Redmond,Redmond,WA,David Berndt,Bellevue,WA,Laura German,Skel xray-lower limb NOS,538.0
+2005-01-02,Redmond,Redmond,WA,David Berndt,Bellevue,WA,Laura German,Skel xray-lower limb NOS,538.0
+2005-01-02,Redmond,Redmond,WA,David Berndt,Bellevue,WA,Laura German,Skel xray-lower limb NOS,538.0
+2005-01-02,Redmond,Redmond,WA,David Berndt,Bellevue,WA,Laura German,Skel xray-lower limb NOS,538.0
+2005-01-02,Redmond,Redmond,WA,Jared Krane,Mill Creek,WA,Laura German,Dx ultrasound-thorax NEC,588.0
+2005-01-02,Redmond,Redmond,WA,Jared Krane,Mill Creek,WA,Laura German,Dx ultrasound-thorax NEC,588.0
+2005-01-02,Redmond,Redmond,WA,Jared Krane,Mill Creek,WA,Laura German,Dx ultrasound-thorax NEC,588.0
+2005-01-02,Redmond,Redmond,WA,Jared Krane,Mill Creek,WA,Laura German,Dx ultrasound-thorax NEC,588.0
+2005-01-02,Kirkland,Kirkland,WA,Matthias Chesnut,Lynnwood,WA,Kevin Mitchell,Interview & evaluat NOS,188.0
+2005-01-02,Kirkland,Kirkland,WA,Matthias Chesnut,Lynnwood,WA,Kevin Mitchell,Interview & evaluat NOS,188.0
+2005-01-02,Kirkland,Kirkland,WA,Matthias Chesnut,Lynnwood,WA,Kevin Mitchell,Interview & evaluat NOS,188.0
+2005-01-02,Kirkland,Kirkland,WA,Matthias Chesnut,Lynnwood,WA,Kevin Mitchell,Interview & evaluat NOS,188.0
+2005-01-02,Bellevue,Bellevue,WA,Kay Suffin,Mill Creek,WA,Kevin Mitchell,Pelvimetry,488.0
+2005-01-02,Bellevue,Bellevue,WA,Kay Suffin,Mill Creek,WA,Kevin Mitchell,Pelvimetry,488.0
+2005-01-02,Bellevue,Bellevue,WA,Kay Suffin,Mill Creek,WA,Kevin Mitchell,Pelvimetry,488.0
+2005-01-02,Bellevue,Bellevue,WA,Kay Suffin,Mill Creek,WA,Kevin Mitchell,Pelvimetry,488.0
+2005-01-02,Kirkland,Kirkland,WA,Alan Haugh,Lynnwood,WA,Kevin Mitchell,Contrast arthrogram,238.0
+2005-01-02,Kirkland,Kirkland,WA,Alan Haugh,Lynnwood,WA,Kevin Mitchell,Contrast arthrogram,238.0
+2005-01-02,Kirkland,Kirkland,WA,Alan Haugh,Lynnwood,WA,Kevin Mitchell,Contrast arthrogram,238.0
+2005-01-02,Kirkland,Kirkland,WA,Alan Haugh,Lynnwood,WA,Kevin Mitchell,Contrast arthrogram,238.0
+2005-01-02,Kirkland,Kirkland,WA,Frank Gage,Redmond,WA,Kevin Mitchell,IVUS coronary vessels,488.0
+2005-01-02,Kirkland,Kirkland,WA,Frank Gage,Redmond,WA,Kevin Mitchell,IVUS coronary vessels,488.0
+2005-01-02,Kirkland,Kirkland,WA,Frank Gage,Redmond,WA,Kevin Mitchell,IVUS coronary vessels,488.0
+2005-01-02,Kirkland,Kirkland,WA,Frank Gage,Redmond,WA,Kevin Mitchell,IVUS coronary vessels,488.0
+2005-01-02,Redmond,Redmond,WA,Samuel Harui,Bothell,WA,Laura German,Dx ultrasound-abdomen,348.0
+2005-01-02,Redmond,Redmond,WA,Samuel Harui,Bothell,WA,Laura German,Dx ultrasound-abdomen,348.0
+2005-01-02,Redmond,Redmond,WA,Samuel Harui,Bothell,WA,Laura German,Dx ultrasound-abdomen,348.0
+2005-01-02,Redmond,Redmond,WA,Samuel Harui,Bothell,WA,Laura German,Dx ultrasound-abdomen,348.0
+2005-01-02,Redmond,Redmond,WA,Tomas Allison,Mill Creek,WA,Laura German,IVUS intrathoracic ves,568.0
+2005-01-02,Kirkland,Kirkland,WA,Dylan McGuigan,Lynnwood,WA,Elizabeth Berndt,Brief interview & evalua,188.0
+2005-01-02,Redmond,Redmond,WA,Tomas Allison,Mill Creek,WA,Laura German,IVUS intrathoracic ves,568.0
+2005-01-02,Kirkland,Kirkland,WA,Dylan McGuigan,Lynnwood,WA,Elizabeth Berndt,Brief interview & evalua,188.0
+2005-01-02,Kirkland,Kirkland,WA,Dylan McGuigan,Lynnwood,WA,Elizabeth Berndt,Brief interview & evalua,188.0
+2005-01-02,Kirkland,Kirkland,WA,Kay Lisboa,Bellevue,WA,Kevin Mitchell,Skel xray-thigh/knee/leg,452.0
+2005-01-02,Kirkland,Kirkland,WA,Dylan McGuigan,Lynnwood,WA,Elizabeth Berndt,Brief interview & evalua,188.0
+2005-01-02,Kirkland,Kirkland,WA,Kay Lisboa,Bellevue,WA,Kevin Mitchell,Skel xray-thigh/knee/leg,452.0
+2005-01-02,Kirkland,Kirkland,WA,Kay Lisboa,Bellevue,WA,Kevin Mitchell,Skel xray-thigh/knee/leg,452.0
+2005-01-02,Kirkland,Kirkland,WA,Julie Beck,Redmond,WA,Kevin Mitchell,Skel xray-wrist & hand,388.0
+2005-01-02,Kirkland,Kirkland,WA,Kay Lisboa,Bellevue,WA,Kevin Mitchell,Skel xray-thigh/knee/leg,452.0
+2005-01-02,Kirkland,Kirkland,WA,Julie Beck,Redmond,WA,Kevin Mitchell,Skel xray-wrist & hand,388.0
+2005-01-02,Kirkland,Kirkland,WA,Julie Beck,Redmond,WA,Kevin Mitchell,Skel xray-wrist & hand,388.0
+2005-01-02,Kirkland,Kirkland,WA,Grant Johnson,Bellevue,WA,Kevin Mitchell,Retroperitoneal xray NEC,234.0
+2005-01-02,Kirkland,Kirkland,WA,Julie Beck,Redmond,WA,Kevin Mitchell,Skel xray-wrist & hand,388.0
+2005-01-02,Kirkland,Kirkland,WA,Grant Johnson,Bellevue,WA,Kevin Mitchell,Retroperitoneal xray NEC,234.0
+2005-01-02,Kirkland,Kirkland,WA,Grant Johnson,Bellevue,WA,Kevin Mitchell,Retroperitoneal xray NEC,234.0
+2005-01-02,Redmond,Redmond,WA,Raquel Giakoumakis,Bellevue,WA,Lee Casts,IVUS extracran cereb ves,448.0
+2005-01-02,Kirkland,Kirkland,WA,Grant Johnson,Bellevue,WA,Kevin Mitchell,Retroperitoneal xray NEC,234.0
+2005-01-02,Redmond,Redmond,WA,Raquel Giakoumakis,Bellevue,WA,Lee Casts,IVUS extracran cereb ves,448.0
+2005-01-02,Redmond,Redmond,WA,Raquel Giakoumakis,Bellevue,WA,Lee Casts,IVUS extracran cereb ves,448.0
+2005-01-02,Kirkland,Kirkland,WA,Jacob Chandler,Redmond,WA,Kevin Mitchell,Skel xray-elbow/forearm,388.0
+2005-01-02,Redmond,Redmond,WA,Raquel Giakoumakis,Bellevue,WA,Lee Casts,IVUS extracran cereb ves,448.0
+2005-01-02,Kirkland,Kirkland,WA,Jacob Chandler,Redmond,WA,Kevin Mitchell,Skel xray-elbow/forearm,388.0
+2005-01-02,Kirkland,Kirkland,WA,Jacob Chandler,Redmond,WA,Kevin Mitchell,Skel xray-elbow/forearm,388.0
+2005-01-02,Redmond,Redmond,WA,Tomas Allison,Mill Creek,WA,Laura German,IVUS intrathoracic ves,568.0
+2005-01-02,Kirkland,Kirkland,WA,Jacob Chandler,Redmond,WA,Kevin Mitchell,Skel xray-elbow/forearm,388.0
+2005-01-02,Redmond,Redmond,WA,Tomas Allison,Mill Creek,WA,Laura German,IVUS intrathoracic ves,568.0
+2005-01-03,Bellevue,Bellevue,WA,Ted Brown,Redmond,WA,Mihail Kim,X-ray NEC and NOS,188.0
+2005-01-03,Redmond,Redmond,WA,Andy Colon,Redmond,WA,Johnny Kogan,Ultrasound study of eye,423.0
+2005-01-03,Bellevue,Bellevue,WA,Ted Brown,Redmond,WA,Mihail Kim,X-ray NEC and NOS,188.0
+2005-01-03,Redmond,Redmond,WA,Andy Colon,Redmond,WA,Johnny Kogan,Ultrasound study of eye,423.0
+2005-01-03,Redmond,Redmond,WA,Andy Colon,Redmond,WA,Johnny Kogan,Ultrasound study of eye,423.0
+2005-01-03,Bellevue,Bellevue,WA,Jennifer Berger,Redmond,WA,Alan Frintu,Other C.A.T. scan,788.0
+2005-01-03,Redmond,Redmond,WA,Andy Colon,Redmond,WA,Johnny Kogan,Ultrasound study of eye,423.0
+2005-01-03,Bellevue,Bellevue,WA,Jennifer Berger,Redmond,WA,Alan Frintu,Other C.A.T. scan,788.0
+2005-01-03,Bellevue,Bellevue,WA,Jennifer Berger,Redmond,WA,Alan Frintu,Other C.A.T. scan,788.0
+2005-01-03,Redmond,Redmond,WA,Leo Ford,Redmond,WA,Johnny Kogan,Interview & evaluat NOS,188.0
+2005-01-03,Bellevue,Bellevue,WA,Jennifer Berger,Redmond,WA,Alan Frintu,Other C.A.T. scan,788.0
+2005-01-03,Redmond,Redmond,WA,Leo Ford,Redmond,WA,Johnny Kogan,Interview & evaluat NOS,188.0
+2005-01-03,Redmond,Redmond,WA,Leo Ford,Redmond,WA,Johnny Kogan,Interview & evaluat NOS,188.0
+2005-01-03,Kirkland,Kirkland,WA,Keith D'sa,Bellevue,WA,Lee Casts,Dx ultrasound-digestive,388.0
+2005-01-03,Redmond,Redmond,WA,Leo Ford,Redmond,WA,Johnny Kogan,Interview & evaluat NOS,188.0
+2005-01-03,Kirkland,Kirkland,WA,Keith D'sa,Bellevue,WA,Lee Casts,Dx ultrasound-digestive,388.0
+2005-01-03,Kirkland,Kirkland,WA,Keith D'sa,Bellevue,WA,Lee Casts,Dx ultrasound-digestive,388.0
+2005-01-03,Bellevue,Bellevue,WA,Cornelius Steiner,Redmond,WA,Mihail Kim,Dx ultrasound-abdomen,348.0
+2005-01-03,Kirkland,Kirkland,WA,Keith D'sa,Bellevue,WA,Lee Casts,Dx ultrasound-digestive,388.0
+2005-01-03,Bellevue,Bellevue,WA,Cornelius Steiner,Redmond,WA,Mihail Kim,Dx ultrasound-abdomen,348.0
+2005-01-03,Bellevue,Bellevue,WA,Cornelius Steiner,Redmond,WA,Mihail Kim,Dx ultrasound-abdomen,348.0
+2005-01-03,Kirkland,Kirkland,WA,Glenn Blanco,Bellevue,WA,Lee Casts,Dx ultrasound-abdomen,348.0
+2005-01-03,Bellevue,Bellevue,WA,Cornelius Steiner,Redmond,WA,Mihail Kim,Dx ultrasound-abdomen,348.0
+2005-01-03,Kirkland,Kirkland,WA,Glenn Blanco,Bellevue,WA,Lee Casts,Dx ultrasound-abdomen,348.0
+2005-01-03,Kirkland,Kirkland,WA,Glenn Blanco,Bellevue,WA,Lee Casts,Dx ultrasound-abdomen,348.0
+2005-01-03,Bellevue,Bellevue,WA,Caroline Berger,Lynnwood,WA,Mihail Kim,Interview & evaluat NEC,188.0
+2005-01-03,Kirkland,Kirkland,WA,Glenn Blanco,Bellevue,WA,Lee Casts,Dx ultrasound-abdomen,348.0
+2005-01-03,Bellevue,Bellevue,WA,Caroline Berger,Lynnwood,WA,Mihail Kim,Interview & evaluat NEC,188.0
+2005-01-03,Bellevue,Bellevue,WA,Caroline Berger,Lynnwood,WA,Mihail Kim,Interview & evaluat NEC,188.0
+2005-01-03,Kirkland,Kirkland,WA,Dorothy Kennedy,Redmond,WA,Lee Casts,Limited interview/evalua,188.0
+2005-01-03,Bellevue,Bellevue,WA,Caroline Berger,Lynnwood,WA,Mihail Kim,Interview & evaluat NEC,188.0
+2005-01-03,Kirkland,Kirkland,WA,Dorothy Kennedy,Redmond,WA,Lee Casts,Limited interview/evalua,188.0
+2005-01-03,Kirkland,Kirkland,WA,Dorothy Kennedy,Redmond,WA,Lee Casts,Limited interview/evalua,188.0
+2005-01-03,Redmond,Redmond,WA,Margaret Flood,Redmond,WA,Johnny Kogan,Comprehen interview/eval,188.0
+2005-01-03,Kirkland,Kirkland,WA,Dorothy Kennedy,Redmond,WA,Lee Casts,Limited interview/evalua,188.0
+2005-01-03,Redmond,Redmond,WA,Margaret Flood,Redmond,WA,Johnny Kogan,Comprehen interview/eval,188.0
+2005-01-03,Redmond,Redmond,WA,Margaret Flood,Redmond,WA,Johnny Kogan,Comprehen interview/eval,188.0
+2005-01-03,Kirkland,Kirkland,WA,Randall French,Redmond,WA,Johnny Kogan,Lo limb sft tis xray NEC,388.0
+2005-01-03,Redmond,Redmond,WA,Margaret Flood,Redmond,WA,Johnny Kogan,Comprehen interview/eval,188.0
+2005-01-03,Kirkland,Kirkland,WA,Randall French,Redmond,WA,Johnny Kogan,Lo limb sft tis xray NEC,388.0
+2005-01-03,Kirkland,Kirkland,WA,Randall French,Redmond,WA,Johnny Kogan,Lo limb sft tis xray NEC,388.0
+2005-01-03,Kirkland,Kirkland,WA,Sairaj Lyeba,Redmond,WA,Lee Casts,Skeletal series x-ray,343.0
+2005-01-03,Kirkland,Kirkland,WA,Randall French,Redmond,WA,Johnny Kogan,Lo limb sft tis xray NEC,388.0
+2005-01-03,Kirkland,Kirkland,WA,Sairaj Lyeba,Redmond,WA,Lee Casts,Skeletal series x-ray,343.0
+2005-01-03,Kirkland,Kirkland,WA,Sairaj Lyeba,Redmond,WA,Lee Casts,Skeletal series x-ray,343.0
+2005-01-03,Kirkland,Kirkland,WA,Kerim Johns,Bellevue,WA,Lee Casts,Dx ultrasound-head/neck,488.0
+2005-01-03,Kirkland,Kirkland,WA,Sairaj Lyeba,Redmond,WA,Lee Casts,Skeletal series x-ray,343.0
+2005-01-03,Kirkland,Kirkland,WA,Kerim Johns,Bellevue,WA,Lee Casts,Dx ultrasound-head/neck,488.0
+2005-01-03,Kirkland,Kirkland,WA,Kerim Johns,Bellevue,WA,Lee Casts,Dx ultrasound-head/neck,488.0
+2005-01-03,Kirkland,Kirkland,WA,Elsa Burnett,Bellevue,WA,Lee Casts,Intravascul imaging NOS,488.0
+2005-01-03,Kirkland,Kirkland,WA,Kerim Johns,Bellevue,WA,Lee Casts,Dx ultrasound-head/neck,488.0
+2005-01-03,Kirkland,Kirkland,WA,Elsa Burnett,Bellevue,WA,Lee Casts,Intravascul imaging NOS,488.0
+2005-01-03,Kirkland,Kirkland,WA,Elsa Burnett,Bellevue,WA,Lee Casts,Intravascul imaging NOS,488.0
+2005-01-03,Bellevue,Bellevue,WA,Richard Garza,Redmond,WA,Alan Frintu,Ultrasound study of eye,423.0
+2005-01-03,Kirkland,Kirkland,WA,Elsa Burnett,Bellevue,WA,Lee Casts,Intravascul imaging NOS,488.0
+2005-01-03,Bellevue,Bellevue,WA,Richard Garza,Redmond,WA,Alan Frintu,Ultrasound study of eye,423.0
+2005-01-03,Bellevue,Bellevue,WA,Richard Garza,Redmond,WA,Alan Frintu,Ultrasound study of eye,423.0
+2005-01-03,Bellevue,Bellevue,WA,Lester German,Bellevue,WA,Mihail Kim,Pelvimetry,488.0
+2005-01-03,Bellevue,Bellevue,WA,Richard Garza,Redmond,WA,Alan Frintu,Ultrasound study of eye,423.0
+2005-01-03,Bellevue,Bellevue,WA,Lester German,Bellevue,WA,Mihail Kim,Pelvimetry,488.0
+2005-01-03,Bellevue,Bellevue,WA,Lester German,Bellevue,WA,Mihail Kim,Pelvimetry,488.0
+2005-01-03,Redmond,Redmond,WA,Mihail Blackwell,Bothell,WA,Johnny Kogan,Retroperitoneal xray NEC,234.0
+2005-01-03,Bellevue,Bellevue,WA,Lester German,Bellevue,WA,Mihail Kim,Pelvimetry,488.0
+2005-01-03,Redmond,Redmond,WA,Mihail Blackwell,Bothell,WA,Johnny Kogan,Retroperitoneal xray NEC,234.0
+2005-01-03,Redmond,Redmond,WA,Mihail Blackwell,Bothell,WA,Johnny Kogan,Retroperitoneal xray NEC,234.0
+2005-01-03,Bellevue,Bellevue,WA,Roger Greer,Redmond,WA,Alan Frintu,Dx ultrasound-abdomen,348.0
+2005-01-03,Redmond,Redmond,WA,Mihail Blackwell,Bothell,WA,Johnny Kogan,Retroperitoneal xray NEC,234.0
+2005-01-03,Bellevue,Bellevue,WA,Roger Greer,Redmond,WA,Alan Frintu,Dx ultrasound-abdomen,348.0
+2005-01-03,Bellevue,Bellevue,WA,Roger Greer,Redmond,WA,Alan Frintu,Dx ultrasound-abdomen,348.0
+2005-01-03,Kirkland,Kirkland,WA,Timothy Hanif,Bellevue,WA,Lee Casts,Dx ultrasound-abdomen,348.0
+2005-01-03,Bellevue,Bellevue,WA,Roger Greer,Redmond,WA,Alan Frintu,Dx ultrasound-abdomen,348.0
+2005-01-03,Kirkland,Kirkland,WA,Timothy Hanif,Bellevue,WA,Lee Casts,Dx ultrasound-abdomen,348.0
+2005-01-03,Kirkland,Kirkland,WA,Timothy Hanif,Bellevue,WA,Lee Casts,Dx ultrasound-abdomen,348.0
+2005-01-03,Redmond,Redmond,WA,Michael Houston,Lynnwood,WA,Johnny Kogan,Other skeletal x-ray,788.0
+2005-01-03,Kirkland,Kirkland,WA,Timothy Hanif,Bellevue,WA,Lee Casts,Dx ultrasound-abdomen,348.0
+2005-01-03,Redmond,Redmond,WA,Michael Houston,Lynnwood,WA,Johnny Kogan,Other skeletal x-ray,788.0
+2005-01-03,Redmond,Redmond,WA,Michael Houston,Lynnwood,WA,Johnny Kogan,Other skeletal x-ray,788.0
+2005-01-03,Redmond,Redmond,WA,Joshua Giakoumakis,Bellevue,WA,Johnny Kogan,Interview & evaluat NEC,188.0
+2005-01-03,Redmond,Redmond,WA,Michael Houston,Lynnwood,WA,Johnny Kogan,Other skeletal x-ray,788.0
+2005-01-03,Redmond,Redmond,WA,Joshua Giakoumakis,Bellevue,WA,Johnny Kogan,Interview & evaluat NEC,188.0
+2005-01-03,Redmond,Redmond,WA,Joshua Giakoumakis,Bellevue,WA,Johnny Kogan,Interview & evaluat NEC,188.0
+2005-01-03,Kirkland,Kirkland,WA,Andy Carothers,Lynnwood,WA,Johnny Kogan,Ther ult head & neck ves,348.0
+2005-01-03,Redmond,Redmond,WA,Joshua Giakoumakis,Bellevue,WA,Johnny Kogan,Interview & evaluat NEC,188.0
+2005-01-03,Kirkland,Kirkland,WA,Andy Carothers,Lynnwood,WA,Johnny Kogan,Ther ult head & neck ves,348.0
+2005-01-03,Kirkland,Kirkland,WA,Andy Carothers,Lynnwood,WA,Johnny Kogan,Ther ult head & neck ves,348.0
+2005-01-03,Bellevue,Bellevue,WA,Lee Cheng,Lynnwood,WA,Alan Frintu,IVUS coronary vessels,488.0
+2005-01-03,Kirkland,Kirkland,WA,Andy Carothers,Lynnwood,WA,Johnny Kogan,Ther ult head & neck ves,348.0
+2005-01-03,Bellevue,Bellevue,WA,Lee Cheng,Lynnwood,WA,Alan Frintu,IVUS coronary vessels,488.0
+2005-01-03,Bellevue,Bellevue,WA,Lee Cheng,Lynnwood,WA,Alan Frintu,IVUS coronary vessels,488.0
+2005-01-03,Bellevue,Bellevue,WA,Ted Brown,Redmond,WA,Mihail Kim,X-ray NEC and NOS,188.0
+2005-01-03,Bellevue,Bellevue,WA,Lee Cheng,Lynnwood,WA,Alan Frintu,IVUS coronary vessels,488.0
+2005-01-03,Bellevue,Bellevue,WA,Ted Brown,Redmond,WA,Mihail Kim,X-ray NEC and NOS,188.0
+2005-01-04,Kirkland,Kirkland,WA,Cheryl Tedford,Bothell,WA,Lee Casts,Dx ultrasound-heart,588.0
+2005-01-04,Kirkland,Kirkland,WA,Cheryl Tedford,Bothell,WA,Lee Casts,Dx ultrasound-heart,588.0
+2005-01-04,Kirkland,Kirkland,WA,Cheryl Tedford,Bothell,WA,Lee Casts,Dx ultrasound-heart,588.0
+2005-01-04,Kirkland,Kirkland,WA,Cheryl Tedford,Bothell,WA,Lee Casts,Dx ultrasound-heart,588.0
+2005-01-04,Bellevue,Bellevue,WA,Elizabeth Cooper,Bellevue,WA,Elizabeth Berndt,Limited consultation,288.0
+2005-01-04,Bellevue,Bellevue,WA,Elizabeth Cooper,Bellevue,WA,Elizabeth Berndt,Limited consultation,288.0
+2005-01-04,Bellevue,Bellevue,WA,Elizabeth Cooper,Bellevue,WA,Elizabeth Berndt,Limited consultation,288.0
+2005-01-04,Bellevue,Bellevue,WA,Elizabeth Cooper,Bellevue,WA,Elizabeth Berndt,Limited consultation,288.0
+2005-01-04,Bellevue,Bellevue,WA,Robert McKay,Mill Creek,WA,Johnny Kogan,Limited interview/evalua,188.0
+2005-01-04,Bellevue,Bellevue,WA,Robert McKay,Mill Creek,WA,Johnny Kogan,Limited interview/evalua,188.0
+2005-01-04,Bellevue,Bellevue,WA,Robert McKay,Mill Creek,WA,Johnny Kogan,Limited interview/evalua,188.0
+2005-01-04,Bellevue,Bellevue,WA,Robert McKay,Mill Creek,WA,Johnny Kogan,Limited interview/evalua,188.0
+2005-01-04,Kirkland,Kirkland,WA,Marjorie Heaney,Lynnwood,WA,Lee Casts,Dx ultrasound-head/neck,488.0
+2005-01-04,Kirkland,Kirkland,WA,Marjorie Heaney,Lynnwood,WA,Lee Casts,Dx ultrasound-head/neck,488.0
+2005-01-04,Kirkland,Kirkland,WA,Marjorie Heaney,Lynnwood,WA,Lee Casts,Dx ultrasound-head/neck,488.0
+2005-01-04,Kirkland,Kirkland,WA,Marjorie Heaney,Lynnwood,WA,Lee Casts,Dx ultrasound-head/neck,488.0
+2005-01-04,Bellevue,Bellevue,WA,Kathie Hagens,Mill Creek,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-04,Bellevue,Bellevue,WA,Kathie Hagens,Mill Creek,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-04,Bellevue,Bellevue,WA,Kathie Hagens,Mill Creek,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-04,Bellevue,Bellevue,WA,Kathie Hagens,Mill Creek,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-04,Redmond,Redmond,WA,Eric Hanif,Lynnwood,WA,Rudolph Ison,Lo limb sft tis xray NEC,388.0
+2005-01-04,Redmond,Redmond,WA,Eric Hanif,Lynnwood,WA,Rudolph Ison,Lo limb sft tis xray NEC,388.0
+2005-01-04,Redmond,Redmond,WA,Eric Hanif,Lynnwood,WA,Rudolph Ison,Lo limb sft tis xray NEC,388.0
+2005-01-04,Redmond,Redmond,WA,Eric Hanif,Lynnwood,WA,Rudolph Ison,Lo limb sft tis xray NEC,388.0
+2005-01-04,Bellevue,Bellevue,WA,Danielle Mart¡nez,Woodnville,WA,Johnny Kogan,Ther ult peripheral ves,435.0
+2005-01-04,Bellevue,Bellevue,WA,Danielle Mart¡nez,Woodnville,WA,Johnny Kogan,Ther ult peripheral ves,435.0
+2005-01-04,Bellevue,Bellevue,WA,Danielle Mart¡nez,Woodnville,WA,Johnny Kogan,Ther ult peripheral ves,435.0
+2005-01-04,Bellevue,Bellevue,WA,Danielle Mart¡nez,Woodnville,WA,Johnny Kogan,Ther ult peripheral ves,435.0
+2005-01-04,Kirkland,Kirkland,WA,Christie Thompson,Mill Creek,WA,Lee Casts,X-ray NEC and NOS,188.0
+2005-01-04,Kirkland,Kirkland,WA,Christie Thompson,Mill Creek,WA,Lee Casts,X-ray NEC and NOS,188.0
+2005-01-04,Kirkland,Kirkland,WA,Christie Thompson,Mill Creek,WA,Lee Casts,X-ray NEC and NOS,188.0
+2005-01-04,Kirkland,Kirkland,WA,Christie Thompson,Mill Creek,WA,Lee Casts,X-ray NEC and NOS,188.0
+2005-01-04,Bellevue,Bellevue,WA,Patricia Booth,Bellevue,WA,Elizabeth Berndt,Interview & evaluat NEC,188.0
+2005-01-04,Bellevue,Bellevue,WA,Patricia Booth,Bellevue,WA,Elizabeth Berndt,Interview & evaluat NEC,188.0
+2005-01-04,Bellevue,Bellevue,WA,Patricia Booth,Bellevue,WA,Elizabeth Berndt,Interview & evaluat NEC,188.0
+2005-01-04,Bellevue,Bellevue,WA,Patricia Booth,Bellevue,WA,Elizabeth Berndt,Interview & evaluat NEC,188.0
+2005-01-04,Bellevue,Bellevue,WA,Vassar Hurkett,Bellevue,WA,Elizabeth Berndt,IVUS extracran cereb ves,448.0
+2005-01-04,Bellevue,Bellevue,WA,Vassar Hurkett,Bellevue,WA,Elizabeth Berndt,IVUS extracran cereb ves,448.0
+2005-01-04,Bellevue,Bellevue,WA,Vassar Hurkett,Bellevue,WA,Elizabeth Berndt,IVUS extracran cereb ves,448.0
+2005-01-04,Bellevue,Bellevue,WA,Vassar Hurkett,Bellevue,WA,Elizabeth Berndt,IVUS extracran cereb ves,448.0
+2005-01-04,Bellevue,Bellevue,WA,Marlin Chapla,Bellevue,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-04,Bellevue,Bellevue,WA,Marlin Chapla,Bellevue,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-04,Bellevue,Bellevue,WA,Marlin Chapla,Bellevue,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-04,Bellevue,Bellevue,WA,Marlin Chapla,Bellevue,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-04,Bellevue,Bellevue,WA,Paulo Maxwell,Bellevue,WA,Elizabeth Berndt,IVUS coronary vessels,488.0
+2005-01-04,Bellevue,Bellevue,WA,Paulo Maxwell,Bellevue,WA,Elizabeth Berndt,IVUS coronary vessels,488.0
+2005-01-04,Bellevue,Bellevue,WA,Paulo Maxwell,Bellevue,WA,Elizabeth Berndt,IVUS coronary vessels,488.0
+2005-01-04,Bellevue,Bellevue,WA,Paulo Maxwell,Bellevue,WA,Elizabeth Berndt,IVUS coronary vessels,488.0
+2005-01-04,Kirkland,Kirkland,WA,Kendra Tatman,Redmond,WA,Lee Casts,Dx ultrasound-vascular,548.0
+2005-01-04,Kirkland,Kirkland,WA,Kendra Tatman,Redmond,WA,Lee Casts,Dx ultrasound-vascular,548.0
+2005-01-04,Kirkland,Kirkland,WA,Kendra Tatman,Redmond,WA,Lee Casts,Dx ultrasound-vascular,548.0
+2005-01-04,Kirkland,Kirkland,WA,Kendra Tatman,Redmond,WA,Lee Casts,Dx ultrasound-vascular,548.0
+2005-01-04,Redmond,Redmond,WA,Brenda Vasquez,Redmond,WA,Rudolph Ison,Comprehensive consultattation,288.0
+2005-01-04,Redmond,Redmond,WA,Brenda Vasquez,Redmond,WA,Rudolph Ison,Comprehensive consultattation,288.0
+2005-01-04,Redmond,Redmond,WA,Brenda Vasquez,Redmond,WA,Rudolph Ison,Comprehensive consultattation,288.0
+2005-01-04,Redmond,Redmond,WA,Brenda Vasquez,Redmond,WA,Rudolph Ison,Comprehensive consultattation,288.0
+2005-01-04,Kirkland,Kirkland,WA,Robert Kelly,Woodnville,WA,Lee Casts,Ther ult head & neck ves,348.0
+2005-01-04,Kirkland,Kirkland,WA,Robert Kelly,Woodnville,WA,Lee Casts,Ther ult head & neck ves,348.0
+2005-01-04,Kirkland,Kirkland,WA,Robert Kelly,Woodnville,WA,Lee Casts,Ther ult head & neck ves,348.0
+2005-01-04,Kirkland,Kirkland,WA,Robert Kelly,Woodnville,WA,Lee Casts,Ther ult head & neck ves,348.0
+2005-01-04,Kirkland,Kirkland,WA,Douglas Lucerne,Bellevue,WA,Lee Casts,Dx ultrasound-heart,588.0
+2005-01-04,Kirkland,Kirkland,WA,Douglas Lucerne,Bellevue,WA,Lee Casts,Dx ultrasound-heart,588.0
+2005-01-04,Kirkland,Kirkland,WA,Douglas Lucerne,Bellevue,WA,Lee Casts,Dx ultrasound-heart,588.0
+2005-01-04,Kirkland,Kirkland,WA,Douglas Lucerne,Bellevue,WA,Lee Casts,Dx ultrasound-heart,588.0
+2005-01-04,Redmond,Redmond,WA,Christopher Goktepe,Bellevue,WA,Johnny Kogan,Lo limb sft tis xray NEC,388.0
+2005-01-04,Redmond,Redmond,WA,Christopher Goktepe,Bellevue,WA,Johnny Kogan,Lo limb sft tis xray NEC,388.0
+2005-01-04,Redmond,Redmond,WA,Christopher Goktepe,Bellevue,WA,Johnny Kogan,Lo limb sft tis xray NEC,388.0
+2005-01-04,Redmond,Redmond,WA,Christopher Goktepe,Bellevue,WA,Johnny Kogan,Lo limb sft tis xray NEC,388.0
+2005-01-04,Bellevue,Bellevue,WA,Eva Brown,Redmond,WA,Johnny Kogan,IVUS peripheral vessels,488.0
+2005-01-04,Bellevue,Bellevue,WA,Eva Brown,Redmond,WA,Johnny Kogan,IVUS peripheral vessels,488.0
+2005-01-04,Bellevue,Bellevue,WA,Eva Brown,Redmond,WA,Johnny Kogan,IVUS peripheral vessels,488.0
+2005-01-04,Bellevue,Bellevue,WA,Eva Brown,Redmond,WA,Johnny Kogan,IVUS peripheral vessels,488.0
+2005-01-04,Bellevue,Bellevue,WA,Jean Clark,Bothell,WA,Elizabeth Berndt,IVUS renal vessels,588.0
+2005-01-04,Bellevue,Bellevue,WA,Jean Clark,Bothell,WA,Elizabeth Berndt,IVUS renal vessels,588.0
+2005-01-04,Bellevue,Bellevue,WA,Jean Clark,Bothell,WA,Elizabeth Berndt,IVUS renal vessels,588.0
+2005-01-04,Bellevue,Bellevue,WA,Jean Clark,Bothell,WA,Elizabeth Berndt,IVUS renal vessels,588.0
+2005-01-04,Redmond,Redmond,WA,Jack Fort,Bellevue,WA,Rudolph Ison,Brief interview & evalua,188.0
+2005-01-04,Redmond,Redmond,WA,Jack Fort,Bellevue,WA,Rudolph Ison,Brief interview & evalua,188.0
+2005-01-04,Redmond,Redmond,WA,Jack Fort,Bellevue,WA,Rudolph Ison,Brief interview & evalua,188.0
+2005-01-04,Redmond,Redmond,WA,Jack Fort,Bellevue,WA,Rudolph Ison,Brief interview & evalua,188.0
+2005-01-04,Bellevue,Bellevue,WA,Ranjit Maccietto,Bellevue,WA,Elizabeth Berndt,Intravascul imaging NOS,488.0
+2005-01-04,Bellevue,Bellevue,WA,Ranjit Maccietto,Bellevue,WA,Elizabeth Berndt,Intravascul imaging NOS,488.0
+2005-01-04,Bellevue,Bellevue,WA,Ranjit Maccietto,Bellevue,WA,Elizabeth Berndt,Intravascul imaging NOS,488.0
+2005-01-04,Bellevue,Bellevue,WA,Ranjit Maccietto,Bellevue,WA,Elizabeth Berndt,Intravascul imaging NOS,488.0
+2005-01-04,Bellevue,Bellevue,WA,Matthew Garza,Bellevue,WA,Elizabeth Berndt,Dx ultrasound-head/neck,488.0
+2005-01-04,Bellevue,Bellevue,WA,Matthew Garza,Bellevue,WA,Elizabeth Berndt,Dx ultrasound-head/neck,488.0
+2005-01-04,Bellevue,Bellevue,WA,Matthew Garza,Bellevue,WA,Elizabeth Berndt,Dx ultrasound-head/neck,488.0
+2005-01-04,Bellevue,Bellevue,WA,Matthew Garza,Bellevue,WA,Elizabeth Berndt,Dx ultrasound-head/neck,488.0
+2005-01-04,Kirkland,Kirkland,WA,David Chambers,Lynnwood,WA,Lee Casts,Consultation NOS,288.0
+2005-01-04,Kirkland,Kirkland,WA,David Chambers,Lynnwood,WA,Lee Casts,Consultation NOS,288.0
+2005-01-04,Kirkland,Kirkland,WA,David Chambers,Lynnwood,WA,Lee Casts,Consultation NOS,288.0
+2005-01-04,Kirkland,Kirkland,WA,David Chambers,Lynnwood,WA,Lee Casts,Consultation NOS,288.0
+2005-01-04,Bellevue,Bellevue,WA,Gail Liu,Redmond,WA,Elizabeth Berndt,Ultrasound study of eye,423.0
+2005-01-04,Bellevue,Bellevue,WA,Gail Liu,Redmond,WA,Elizabeth Berndt,Ultrasound study of eye,423.0
+2005-01-04,Bellevue,Bellevue,WA,Gail Liu,Redmond,WA,Elizabeth Berndt,Ultrasound study of eye,423.0
+2005-01-04,Bellevue,Bellevue,WA,Gail Liu,Redmond,WA,Elizabeth Berndt,Ultrasound study of eye,423.0
+2005-01-04,Bellevue,Bellevue,WA,Christie Looney,Bellevue,WA,Elizabeth Berndt,Contrast arthrogram,238.0
+2005-01-04,Bellevue,Bellevue,WA,Christie Looney,Bellevue,WA,Elizabeth Berndt,Contrast arthrogram,238.0
+2005-01-04,Bellevue,Bellevue,WA,Christie Looney,Bellevue,WA,Elizabeth Berndt,Contrast arthrogram,238.0
+2005-01-04,Bellevue,Bellevue,WA,Christie Looney,Bellevue,WA,Elizabeth Berndt,Contrast arthrogram,238.0
+2005-01-04,Kirkland,Kirkland,WA,Matthias Chesnut,Lynnwood,WA,Kevin Mitchell,Retroperitoneal xray NEC,234.0
+2005-01-04,Kirkland,Kirkland,WA,Matthias Chesnut,Lynnwood,WA,Kevin Mitchell,Retroperitoneal xray NEC,234.0
+2005-01-04,Kirkland,Kirkland,WA,Matthias Chesnut,Lynnwood,WA,Kevin Mitchell,Retroperitoneal xray NEC,234.0
+2005-01-04,Kirkland,Kirkland,WA,Matthias Chesnut,Lynnwood,WA,Kevin Mitchell,Retroperitoneal xray NEC,234.0
+2005-01-04,Redmond,Redmond,WA,Josh Benson,Lynnwood,WA,Johnny Kogan,Dx ultrasound-thorax NEC,588.0
+2005-01-04,Redmond,Redmond,WA,Josh Benson,Lynnwood,WA,Johnny Kogan,Dx ultrasound-thorax NEC,588.0
+2005-01-04,Redmond,Redmond,WA,Josh Benson,Lynnwood,WA,Johnny Kogan,Dx ultrasound-thorax NEC,588.0
+2005-01-04,Redmond,Redmond,WA,Josh Benson,Lynnwood,WA,Johnny Kogan,Dx ultrasound-thorax NEC,588.0
+2005-01-04,Redmond,Redmond,WA,Jeffrey Marple,Mill Creek,WA,Rudolph Ison,Dx ultrasound-vascular,548.0
+2005-01-04,Redmond,Redmond,WA,Jeffrey Marple,Mill Creek,WA,Rudolph Ison,Dx ultrasound-vascular,548.0
+2005-01-04,Redmond,Redmond,WA,Jeffrey Marple,Mill Creek,WA,Rudolph Ison,Dx ultrasound-vascular,548.0
+2005-01-04,Redmond,Redmond,WA,Jeffrey Marple,Mill Creek,WA,Rudolph Ison,Dx ultrasound-vascular,548.0
+2005-01-05,Redmond,Redmond,WA,Judy Lucerne,Mill Creek,WA,Michael John Greer,Dx ultrasound-vascular,548.0
+2005-01-05,Bellevue,Bellevue,WA,Jimmy Thompson,Redmond,WA,Lee Casts,Skl xray-shoulder/up arm,388.0
+2005-01-05,Redmond,Redmond,WA,Judy Lucerne,Mill Creek,WA,Michael John Greer,Dx ultrasound-vascular,548.0
+2005-01-05,Bellevue,Bellevue,WA,Jimmy Thompson,Redmond,WA,Lee Casts,Skl xray-shoulder/up arm,388.0
+2005-01-05,Bellevue,Bellevue,WA,Jimmy Thompson,Redmond,WA,Lee Casts,Skl xray-shoulder/up arm,388.0
+2005-01-05,Bellevue,Bellevue,WA,Patricia Konersmann,Mill Creek,WA,Lee Casts,Skel xray-thigh/knee/leg,452.0
+2005-01-05,Bellevue,Bellevue,WA,Jimmy Thompson,Redmond,WA,Lee Casts,Skl xray-shoulder/up arm,388.0
+2005-01-05,Bellevue,Bellevue,WA,Patricia Konersmann,Mill Creek,WA,Lee Casts,Skel xray-thigh/knee/leg,452.0
+2005-01-05,Bellevue,Bellevue,WA,Patricia Konersmann,Mill Creek,WA,Lee Casts,Skel xray-thigh/knee/leg,452.0
+2005-01-05,Redmond,Redmond,WA,Marcia Demott Jr,Bellevue,WA,Michael John Greer,Skel xray-thigh/knee/leg,452.0
+2005-01-05,Bellevue,Bellevue,WA,Patricia Konersmann,Mill Creek,WA,Lee Casts,Skel xray-thigh/knee/leg,452.0
+2005-01-05,Redmond,Redmond,WA,Marcia Demott Jr,Bellevue,WA,Michael John Greer,Skel xray-thigh/knee/leg,452.0
+2005-01-05,Redmond,Redmond,WA,Marcia Demott Jr,Bellevue,WA,Michael John Greer,Skel xray-thigh/knee/leg,452.0
+2005-01-05,Redmond,Redmond,WA,Kim Logan,Redmond,WA,Elizabeth Berndt,Dx ultrasound-abdomen,348.0
+2005-01-05,Redmond,Redmond,WA,Marcia Demott Jr,Bellevue,WA,Michael John Greer,Skel xray-thigh/knee/leg,452.0
+2005-01-05,Redmond,Redmond,WA,Kim Logan,Redmond,WA,Elizabeth Berndt,Dx ultrasound-abdomen,348.0
+2005-01-05,Redmond,Redmond,WA,Kim Logan,Redmond,WA,Elizabeth Berndt,Dx ultrasound-abdomen,348.0
+2005-01-05,Kirkland,Kirkland,WA,Marlin Chambers,Woodnville,WA,Robert Hodges,Lower limb lymphangiogrm,258.0
+2005-01-05,Redmond,Redmond,WA,Kim Logan,Redmond,WA,Elizabeth Berndt,Dx ultrasound-abdomen,348.0
+2005-01-05,Kirkland,Kirkland,WA,Marlin Chambers,Woodnville,WA,Robert Hodges,Lower limb lymphangiogrm,258.0
+2005-01-05,Kirkland,Kirkland,WA,Marlin Chambers,Woodnville,WA,Robert Hodges,Lower limb lymphangiogrm,258.0
+2005-01-05,Bellevue,Bellevue,WA,Kendra Harrington,Woodnville,WA,George Abercrombie,Up limb sft tis xray NEC,788.0
+2005-01-05,Kirkland,Kirkland,WA,Marlin Chambers,Woodnville,WA,Robert Hodges,Lower limb lymphangiogrm,258.0
+2005-01-05,Bellevue,Bellevue,WA,Kendra Harrington,Woodnville,WA,George Abercrombie,Up limb sft tis xray NEC,788.0
+2005-01-05,Bellevue,Bellevue,WA,Kendra Harrington,Woodnville,WA,George Abercrombie,Up limb sft tis xray NEC,788.0
+2005-01-05,Redmond,Redmond,WA,Scott Carmody,Redmond,WA,Elizabeth Berndt,Skel xray-ankle & foot,345.0
+2005-01-05,Bellevue,Bellevue,WA,Kendra Harrington,Woodnville,WA,George Abercrombie,Up limb sft tis xray NEC,788.0
+2005-01-05,Redmond,Redmond,WA,Scott Carmody,Redmond,WA,Elizabeth Berndt,Skel xray-ankle & foot,345.0
+2005-01-05,Redmond,Redmond,WA,Scott Carmody,Redmond,WA,Elizabeth Berndt,Skel xray-ankle & foot,345.0
+2005-01-05,Bellevue,Bellevue,WA,John Bright,Redmond,WA,George Abercrombie,IVUS extracran cereb ves,448.0
+2005-01-05,Redmond,Redmond,WA,Scott Carmody,Redmond,WA,Elizabeth Berndt,Skel xray-ankle & foot,345.0
+2005-01-05,Bellevue,Bellevue,WA,John Bright,Redmond,WA,George Abercrombie,IVUS extracran cereb ves,448.0
+2005-01-05,Bellevue,Bellevue,WA,John Bright,Redmond,WA,George Abercrombie,IVUS extracran cereb ves,448.0
+2005-01-05,Redmond,Redmond,WA,Judy Lucerne,Mill Creek,WA,Michael John Greer,Dx ultrasound-vascular,548.0
+2005-01-05,Bellevue,Bellevue,WA,John Bright,Redmond,WA,George Abercrombie,IVUS extracran cereb ves,448.0
+2005-01-05,Redmond,Redmond,WA,Judy Lucerne,Mill Creek,WA,Michael John Greer,Dx ultrasound-vascular,548.0
+2005-01-05,Kirkland,Kirkland,WA,James Van Houten,Lynnwood,WA,Robert Hodges,Consultation NEC,288.0
+2005-01-05,Kirkland,Kirkland,WA,James Van Houten,Lynnwood,WA,Robert Hodges,Consultation NEC,288.0
+2005-01-05,Kirkland,Kirkland,WA,James Van Houten,Lynnwood,WA,Robert Hodges,Consultation NEC,288.0
+2005-01-05,Kirkland,Kirkland,WA,James Van Houten,Lynnwood,WA,Robert Hodges,Consultation NEC,288.0
+2005-01-05,Bellevue,Bellevue,WA,Andrea Ison,Bothell,WA,George Abercrombie,IVUS peripheral vessels,488.0
+2005-01-05,Bellevue,Bellevue,WA,Andrea Ison,Bothell,WA,George Abercrombie,IVUS peripheral vessels,488.0
+2005-01-05,Bellevue,Bellevue,WA,Andrea Ison,Bothell,WA,George Abercrombie,IVUS peripheral vessels,488.0
+2005-01-05,Bellevue,Bellevue,WA,Andrea Ison,Bothell,WA,George Abercrombie,IVUS peripheral vessels,488.0
+2005-01-05,Redmond,Redmond,WA,François Brooks,Redmond,WA,Michael John Greer,IVUS intrathoracic ves,568.0
+2005-01-05,Redmond,Redmond,WA,François Brooks,Redmond,WA,Michael John Greer,IVUS intrathoracic ves,568.0
+2005-01-05,Redmond,Redmond,WA,François Brooks,Redmond,WA,Michael John Greer,IVUS intrathoracic ves,568.0
+2005-01-05,Redmond,Redmond,WA,François Brooks,Redmond,WA,Michael John Greer,IVUS intrathoracic ves,568.0
+2005-01-05,Redmond,Redmond,WA,Sandeep Canuto,Lynnwood,WA,Michael John Greer,Dx ultrasound-heart,588.0
+2005-01-05,Redmond,Redmond,WA,Sandeep Canuto,Lynnwood,WA,Michael John Greer,Dx ultrasound-heart,588.0
+2005-01-05,Redmond,Redmond,WA,Sandeep Canuto,Lynnwood,WA,Michael John Greer,Dx ultrasound-heart,588.0
+2005-01-05,Redmond,Redmond,WA,Sandeep Canuto,Lynnwood,WA,Michael John Greer,Dx ultrasound-heart,588.0
+2005-01-05,Kirkland,Kirkland,WA,Teresa Clark,Lynnwood,WA,Robert Hodges,Upper limb lymphangiogrm,348.0
+2005-01-05,Kirkland,Kirkland,WA,Teresa Clark,Lynnwood,WA,Robert Hodges,Upper limb lymphangiogrm,348.0
+2005-01-05,Kirkland,Kirkland,WA,Teresa Clark,Lynnwood,WA,Robert Hodges,Upper limb lymphangiogrm,348.0
+2005-01-05,Kirkland,Kirkland,WA,Teresa Clark,Lynnwood,WA,Robert Hodges,Upper limb lymphangiogrm,348.0
+2005-01-05,Kirkland,Kirkland,WA,Todd Harris,Woodnville,WA,Michael John Greer,Intravascul imaging NEC,488.0
+2005-01-05,Kirkland,Kirkland,WA,Todd Harris,Woodnville,WA,Michael John Greer,Intravascul imaging NEC,488.0
+2005-01-05,Kirkland,Kirkland,WA,Todd Harris,Woodnville,WA,Michael John Greer,Intravascul imaging NEC,488.0
+2005-01-05,Kirkland,Kirkland,WA,Todd Harris,Woodnville,WA,Michael John Greer,Intravascul imaging NEC,488.0
+2005-01-05,Redmond,Redmond,WA,Jeffrey Marple,Mill Creek,WA,Michael John Greer,Ther ult head & neck ves,348.0
+2005-01-05,Redmond,Redmond,WA,Jeffrey Marple,Mill Creek,WA,Michael John Greer,Ther ult head & neck ves,348.0
+2005-01-05,Redmond,Redmond,WA,Jeffrey Marple,Mill Creek,WA,Michael John Greer,Ther ult head & neck ves,348.0
+2005-01-05,Redmond,Redmond,WA,Jeffrey Marple,Mill Creek,WA,Michael John Greer,Ther ult head & neck ves,348.0
+2005-01-05,Kirkland,Kirkland,WA,Kathie Vasquez,Bellevue,WA,Robert Hodges,Intravascul imaging NEC,488.0
+2005-01-05,Kirkland,Kirkland,WA,Kathie Vasquez,Bellevue,WA,Robert Hodges,Intravascul imaging NEC,488.0
+2005-01-05,Kirkland,Kirkland,WA,Kathie Vasquez,Bellevue,WA,Robert Hodges,Intravascul imaging NEC,488.0
+2005-01-05,Kirkland,Kirkland,WA,Kathie Vasquez,Bellevue,WA,Robert Hodges,Intravascul imaging NEC,488.0
+2005-01-05,Bellevue,Bellevue,WA,Jauna Ihrig,Bellevue,WA,Lee Casts,IVUS peripheral vessels,488.0
+2005-01-05,Bellevue,Bellevue,WA,Jauna Ihrig,Bellevue,WA,Lee Casts,IVUS peripheral vessels,488.0
+2005-01-05,Bellevue,Bellevue,WA,Jauna Ihrig,Bellevue,WA,Lee Casts,IVUS peripheral vessels,488.0
+2005-01-05,Bellevue,Bellevue,WA,Jauna Ihrig,Bellevue,WA,Lee Casts,IVUS peripheral vessels,488.0
+2005-01-05,Redmond,Redmond,WA,Andy Colon,Redmond,WA,Michael John Greer,Intravascul imaging NOS,488.0
+2005-01-05,Redmond,Redmond,WA,Andy Colon,Redmond,WA,Michael John Greer,Intravascul imaging NOS,488.0
+2005-01-05,Redmond,Redmond,WA,Andy Colon,Redmond,WA,Michael John Greer,Intravascul imaging NOS,488.0
+2005-01-05,Redmond,Redmond,WA,Andy Colon,Redmond,WA,Michael John Greer,Intravascul imaging NOS,488.0
+2005-01-05,Bellevue,Bellevue,WA,Joseph Houston,Woodnville,WA,Lee Casts,Skel xray-ankle & foot,345.0
+2005-01-05,Bellevue,Bellevue,WA,Joseph Houston,Woodnville,WA,Lee Casts,Skel xray-ankle & foot,345.0
+2005-01-05,Bellevue,Bellevue,WA,Joseph Houston,Woodnville,WA,Lee Casts,Skel xray-ankle & foot,345.0
+2005-01-05,Bellevue,Bellevue,WA,Joseph Houston,Woodnville,WA,Lee Casts,Skel xray-ankle & foot,345.0
+2005-01-05,Kirkland,Kirkland,WA,Maciej Heaney,Redmond,WA,Robert Hodges,Brief interview & evalua,188.0
+2005-01-05,Kirkland,Kirkland,WA,Maciej Heaney,Redmond,WA,Robert Hodges,Brief interview & evalua,188.0
+2005-01-05,Kirkland,Kirkland,WA,Maciej Heaney,Redmond,WA,Robert Hodges,Brief interview & evalua,188.0
+2005-01-05,Kirkland,Kirkland,WA,Maciej Heaney,Redmond,WA,Robert Hodges,Brief interview & evalua,188.0
+2005-01-05,Redmond,Redmond,WA,Mike Berger,Woodnville,WA,Elizabeth Berndt,Dx ultrasound-grav uter,652.0
+2005-01-05,Redmond,Redmond,WA,Mike Berger,Woodnville,WA,Elizabeth Berndt,Dx ultrasound-grav uter,652.0
+2005-01-05,Redmond,Redmond,WA,Mike Berger,Woodnville,WA,Elizabeth Berndt,Dx ultrasound-grav uter,652.0
+2005-01-05,Redmond,Redmond,WA,Mike Berger,Woodnville,WA,Elizabeth Berndt,Dx ultrasound-grav uter,652.0
+2005-01-05,Bellevue,Bellevue,WA,Gytis Stenerson,Lynnwood,WA,George Abercrombie,Lower limb lymphangiogrm,258.0
+2005-01-05,Bellevue,Bellevue,WA,Gytis Stenerson,Lynnwood,WA,George Abercrombie,Lower limb lymphangiogrm,258.0
+2005-01-05,Bellevue,Bellevue,WA,Gytis Stenerson,Lynnwood,WA,George Abercrombie,Lower limb lymphangiogrm,258.0
+2005-01-05,Bellevue,Bellevue,WA,Gytis Stenerson,Lynnwood,WA,George Abercrombie,Lower limb lymphangiogrm,258.0
+2005-01-05,Redmond,Redmond,WA,Alice Kelley,Mill Creek,WA,Elizabeth Berndt,Dx ultrasound NEC,345.0
+2005-01-05,Redmond,Redmond,WA,Alice Kelley,Mill Creek,WA,Elizabeth Berndt,Dx ultrasound NEC,345.0
+2005-01-05,Redmond,Redmond,WA,Alice Kelley,Mill Creek,WA,Elizabeth Berndt,Dx ultrasound NEC,345.0
+2005-01-05,Redmond,Redmond,WA,Alice Kelley,Mill Creek,WA,Elizabeth Berndt,Dx ultrasound NEC,345.0
+2005-01-05,Kirkland,Kirkland,WA,Shaun Kitt,Lynnwood,WA,Robert Hodges,Dx ultrasound-abdomen,348.0
+2005-01-05,Kirkland,Kirkland,WA,Shaun Kitt,Lynnwood,WA,Robert Hodges,Dx ultrasound-abdomen,348.0
+2005-01-05,Kirkland,Kirkland,WA,Shaun Kitt,Lynnwood,WA,Robert Hodges,Dx ultrasound-abdomen,348.0
+2005-01-05,Kirkland,Kirkland,WA,Shaun Kitt,Lynnwood,WA,Robert Hodges,Dx ultrasound-abdomen,348.0
+2005-01-05,Redmond,Redmond,WA,Alan Goldstein,Redmond,WA,Elizabeth Berndt,Upper limb lymphangiogrm,348.0
+2005-01-05,Redmond,Redmond,WA,Edna Burkhardt,Bellevue,WA,Elizabeth Berndt,Skel xray-lower limb NOS,538.0
+2005-01-05,Redmond,Redmond,WA,Alan Goldstein,Redmond,WA,Elizabeth Berndt,Upper limb lymphangiogrm,348.0
+2005-01-05,Redmond,Redmond,WA,Edna Burkhardt,Bellevue,WA,Elizabeth Berndt,Skel xray-lower limb NOS,538.0
+2005-01-05,Redmond,Redmond,WA,Edna Burkhardt,Bellevue,WA,Elizabeth Berndt,Skel xray-lower limb NOS,538.0
+2005-01-05,Redmond,Redmond,WA,Darren Johns,Bellevue,WA,Michael John Greer,Skel xray-pelvis/hip NEC,345.0
+2005-01-05,Redmond,Redmond,WA,Edna Burkhardt,Bellevue,WA,Elizabeth Berndt,Skel xray-lower limb NOS,538.0
+2005-01-05,Redmond,Redmond,WA,Darren Johns,Bellevue,WA,Michael John Greer,Skel xray-pelvis/hip NEC,345.0
+2005-01-05,Redmond,Redmond,WA,Darren Johns,Bellevue,WA,Michael John Greer,Skel xray-pelvis/hip NEC,345.0
+2005-01-05,Bellevue,Bellevue,WA,Stacey D'Hers,Bothell,WA,Lee Casts,Ther ultrasound of heart,438.0
+2005-01-05,Redmond,Redmond,WA,Darren Johns,Bellevue,WA,Michael John Greer,Skel xray-pelvis/hip NEC,345.0
+2005-01-05,Bellevue,Bellevue,WA,Stacey D'Hers,Bothell,WA,Lee Casts,Ther ultrasound of heart,438.0
+2005-01-05,Bellevue,Bellevue,WA,Stacey D'Hers,Bothell,WA,Lee Casts,Ther ultrasound of heart,438.0
+2005-01-05,Redmond,Redmond,WA,Marlin Sutton,Redmond,WA,Elizabeth Berndt,Interview & evaluat NOS,188.0
+2005-01-05,Bellevue,Bellevue,WA,Stacey D'Hers,Bothell,WA,Lee Casts,Ther ultrasound of heart,438.0
+2005-01-05,Redmond,Redmond,WA,Marlin Sutton,Redmond,WA,Elizabeth Berndt,Interview & evaluat NOS,188.0
+2005-01-05,Redmond,Redmond,WA,Marlin Sutton,Redmond,WA,Elizabeth Berndt,Interview & evaluat NOS,188.0
+2005-01-05,Redmond,Redmond,WA,Vassar Lyeba,Lynnwood,WA,Elizabeth Berndt,Ultrasound study of eye,423.0
+2005-01-05,Redmond,Redmond,WA,Marlin Sutton,Redmond,WA,Elizabeth Berndt,Interview & evaluat NOS,188.0
+2005-01-05,Redmond,Redmond,WA,Vassar Lyeba,Lynnwood,WA,Elizabeth Berndt,Ultrasound study of eye,423.0
+2005-01-05,Redmond,Redmond,WA,Vassar Lyeba,Lynnwood,WA,Elizabeth Berndt,Ultrasound study of eye,423.0
+2005-01-05,Bellevue,Bellevue,WA,Prashanth Krupka,Lynnwood,WA,George Abercrombie,Dx ultrasound-vascular,548.0
+2005-01-05,Redmond,Redmond,WA,Vassar Lyeba,Lynnwood,WA,Elizabeth Berndt,Ultrasound study of eye,423.0
+2005-01-05,Bellevue,Bellevue,WA,Prashanth Krupka,Lynnwood,WA,George Abercrombie,Dx ultrasound-vascular,548.0
+2005-01-05,Bellevue,Bellevue,WA,Prashanth Krupka,Lynnwood,WA,George Abercrombie,Dx ultrasound-vascular,548.0
+2005-01-05,Kirkland,Kirkland,WA,Erin Mays,Mill Creek,WA,Robert Hodges,Dx ultrasound-vascular,548.0
+2005-01-05,Bellevue,Bellevue,WA,Prashanth Krupka,Lynnwood,WA,George Abercrombie,Dx ultrasound-vascular,548.0
+2005-01-05,Kirkland,Kirkland,WA,Erin Mays,Mill Creek,WA,Robert Hodges,Dx ultrasound-vascular,548.0
+2005-01-05,Kirkland,Kirkland,WA,Erin Mays,Mill Creek,WA,Robert Hodges,Dx ultrasound-vascular,548.0
+2005-01-05,Redmond,Redmond,WA,Prashanth Ashton,Lynnwood,WA,Elizabeth Berndt,Skel xray-ankle & foot,345.0
+2005-01-05,Kirkland,Kirkland,WA,Erin Mays,Mill Creek,WA,Robert Hodges,Dx ultrasound-vascular,548.0
+2005-01-05,Redmond,Redmond,WA,Prashanth Ashton,Lynnwood,WA,Elizabeth Berndt,Skel xray-ankle & foot,345.0
+2005-01-05,Redmond,Redmond,WA,Prashanth Ashton,Lynnwood,WA,Elizabeth Berndt,Skel xray-ankle & foot,345.0
+2005-01-05,Redmond,Redmond,WA,Alan Goldstein,Redmond,WA,Elizabeth Berndt,Upper limb lymphangiogrm,348.0
+2005-01-05,Redmond,Redmond,WA,Prashanth Ashton,Lynnwood,WA,Elizabeth Berndt,Skel xray-ankle & foot,345.0
+2005-01-05,Redmond,Redmond,WA,Alan Goldstein,Redmond,WA,Elizabeth Berndt,Upper limb lymphangiogrm,348.0
+2005-01-06,Kirkland,Kirkland,WA,Robert Finley,Lynnwood,WA,Alan Frintu,Skel xray-ankle & foot,345.0
+2005-01-06,Kirkland,Kirkland,WA,Robert Finley,Lynnwood,WA,Alan Frintu,Skel xray-ankle & foot,345.0
+2005-01-06,Kirkland,Kirkland,WA,Robert Finley,Lynnwood,WA,Alan Frintu,Skel xray-ankle & foot,345.0
+2005-01-06,Kirkland,Kirkland,WA,Robert Finley,Lynnwood,WA,Alan Frintu,Skel xray-ankle & foot,345.0
+2005-01-06,Bellevue,Bellevue,WA,Paul Gilbert,Lynnwood,WA,Lee Casts,Ther ult head & neck ves,348.0
+2005-01-06,Bellevue,Bellevue,WA,Paul Gilbert,Lynnwood,WA,Lee Casts,Ther ult head & neck ves,348.0
+2005-01-06,Bellevue,Bellevue,WA,Paul Gilbert,Lynnwood,WA,Lee Casts,Ther ult head & neck ves,348.0
+2005-01-06,Bellevue,Bellevue,WA,Paul Gilbert,Lynnwood,WA,Lee Casts,Ther ult head & neck ves,348.0
+2005-01-06,Bellevue,Bellevue,WA,Katherine Irwin,Lynnwood,WA,Lee Casts,Ther ult head & neck ves,348.0
+2005-01-06,Bellevue,Bellevue,WA,Katherine Irwin,Lynnwood,WA,Lee Casts,Ther ult head & neck ves,348.0
+2005-01-06,Bellevue,Bellevue,WA,Katherine Irwin,Lynnwood,WA,Lee Casts,Ther ult head & neck ves,348.0
+2005-01-06,Bellevue,Bellevue,WA,Katherine Irwin,Lynnwood,WA,Lee Casts,Ther ult head & neck ves,348.0
+2005-01-06,Redmond,Redmond,WA,Christian Calafato,Lynnwood,WA,Kelly Steiner,Lo limb sft tis xray NEC,388.0
+2005-01-06,Redmond,Redmond,WA,Christian Calafato,Lynnwood,WA,Kelly Steiner,Lo limb sft tis xray NEC,388.0
+2005-01-06,Redmond,Redmond,WA,Christian Calafato,Lynnwood,WA,Kelly Steiner,Lo limb sft tis xray NEC,388.0
+2005-01-06,Redmond,Redmond,WA,Christian Calafato,Lynnwood,WA,Kelly Steiner,Lo limb sft tis xray NEC,388.0
+2005-01-06,Redmond,Redmond,WA,Juanita Groth,Bellevue,WA,Kelly Steiner," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-06,Redmond,Redmond,WA,Juanita Groth,Bellevue,WA,Kelly Steiner," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-06,Redmond,Redmond,WA,Juanita Groth,Bellevue,WA,Kelly Steiner," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-06,Redmond,Redmond,WA,Juanita Groth,Bellevue,WA,Kelly Steiner," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-06,Bellevue,Bellevue,WA,Stefan Hill,Lynnwood,WA,Lee Casts,IVUS peripheral vessels,488.0
+2005-01-06,Bellevue,Bellevue,WA,Stefan Hill,Lynnwood,WA,Lee Casts,IVUS peripheral vessels,488.0
+2005-01-06,Bellevue,Bellevue,WA,Stefan Hill,Lynnwood,WA,Lee Casts,IVUS peripheral vessels,488.0
+2005-01-06,Bellevue,Bellevue,WA,Stefan Hill,Lynnwood,WA,Lee Casts,IVUS peripheral vessels,488.0
+2005-01-06,Kirkland,Kirkland,WA,Eva Bockenkamp,Redmond,WA,Alan Frintu,IVUS coronary vessels,488.0
+2005-01-06,Kirkland,Kirkland,WA,Eva Bockenkamp,Redmond,WA,Alan Frintu,IVUS coronary vessels,488.0
+2005-01-06,Kirkland,Kirkland,WA,Eva Bockenkamp,Redmond,WA,Alan Frintu,IVUS coronary vessels,488.0
+2005-01-06,Kirkland,Kirkland,WA,Eva Bockenkamp,Redmond,WA,Alan Frintu,IVUS coronary vessels,488.0
+2005-01-06,Bellevue,Bellevue,WA,Brian Tench,Bellevue,WA,Lee Casts,Skeletal series x-ray,343.0
+2005-01-06,Bellevue,Bellevue,WA,Brian Tench,Bellevue,WA,Lee Casts,Skeletal series x-ray,343.0
+2005-01-06,Bellevue,Bellevue,WA,Brian Tench,Bellevue,WA,Lee Casts,Skeletal series x-ray,343.0
+2005-01-06,Bellevue,Bellevue,WA,Brian Tench,Bellevue,WA,Lee Casts,Skeletal series x-ray,343.0
+2005-01-06,Bellevue,Bellevue,WA,Eric Bernacchi,Redmond,WA,Ben Goldstein,Skel xray-thigh/knee/leg,452.0
+2005-01-06,Bellevue,Bellevue,WA,Eric Bernacchi,Redmond,WA,Ben Goldstein,Skel xray-thigh/knee/leg,452.0
+2005-01-06,Bellevue,Bellevue,WA,Eric Bernacchi,Redmond,WA,Ben Goldstein,Skel xray-thigh/knee/leg,452.0
+2005-01-06,Bellevue,Bellevue,WA,Eric Bernacchi,Redmond,WA,Ben Goldstein,Skel xray-thigh/knee/leg,452.0
+2005-01-06,Kirkland,Kirkland,WA,Christian Carmichael,Woodnville,WA,Alan Frintu," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-06,Kirkland,Kirkland,WA,Christian Carmichael,Woodnville,WA,Alan Frintu," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-06,Kirkland,Kirkland,WA,Christian Carmichael,Woodnville,WA,Alan Frintu," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-06,Kirkland,Kirkland,WA,Christian Carmichael,Woodnville,WA,Alan Frintu," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-06,Bellevue,Bellevue,WA,Guy Lepro,Bellevue,WA,Ben Goldstein,Lo limb sft tis xray NEC,388.0
+2005-01-06,Bellevue,Bellevue,WA,Guy Lepro,Bellevue,WA,Ben Goldstein,Lo limb sft tis xray NEC,388.0
+2005-01-06,Bellevue,Bellevue,WA,Guy Lepro,Bellevue,WA,Ben Goldstein,Lo limb sft tis xray NEC,388.0
+2005-01-06,Bellevue,Bellevue,WA,Guy Lepro,Bellevue,WA,Ben Goldstein,Lo limb sft tis xray NEC,388.0
+2005-01-06,Bellevue,Bellevue,WA,Karren Trujillo,Lynnwood,WA,Lee Casts,Skel xray-thigh/knee/leg,452.0
+2005-01-06,Bellevue,Bellevue,WA,Karren Trujillo,Lynnwood,WA,Lee Casts,Skel xray-thigh/knee/leg,452.0
+2005-01-06,Bellevue,Bellevue,WA,Karren Trujillo,Lynnwood,WA,Lee Casts,Skel xray-thigh/knee/leg,452.0
+2005-01-06,Bellevue,Bellevue,WA,Karren Trujillo,Lynnwood,WA,Lee Casts,Skel xray-thigh/knee/leg,452.0
+2005-01-06,Bellevue,Bellevue,WA,Christopher Kotc,Redmond,WA,Lee Casts,Skl xray-shoulder/up arm,388.0
+2005-01-06,Bellevue,Bellevue,WA,Christopher Kotc,Redmond,WA,Lee Casts,Skl xray-shoulder/up arm,388.0
+2005-01-06,Bellevue,Bellevue,WA,Christopher Kotc,Redmond,WA,Lee Casts,Skl xray-shoulder/up arm,388.0
+2005-01-06,Bellevue,Bellevue,WA,Christopher Kotc,Redmond,WA,Lee Casts,Skl xray-shoulder/up arm,388.0
+2005-01-06,Kirkland,Kirkland,WA,Neva Keyser,Bellevue,WA,Alan Frintu,Intravascul imaging NOS,488.0
+2005-01-06,Kirkland,Kirkland,WA,Neva Keyser,Bellevue,WA,Alan Frintu,Intravascul imaging NOS,488.0
+2005-01-06,Kirkland,Kirkland,WA,Neva Keyser,Bellevue,WA,Alan Frintu,Intravascul imaging NOS,488.0
+2005-01-06,Kirkland,Kirkland,WA,Neva Keyser,Bellevue,WA,Alan Frintu,Intravascul imaging NOS,488.0
+2005-01-06,Kirkland,Kirkland,WA,Robert Thompson,Bellevue,WA,Alan Frintu,Consultation NEC,288.0
+2005-01-06,Kirkland,Kirkland,WA,Robert Thompson,Bellevue,WA,Alan Frintu,Consultation NEC,288.0
+2005-01-06,Kirkland,Kirkland,WA,Robert Thompson,Bellevue,WA,Alan Frintu,Consultation NEC,288.0
+2005-01-06,Kirkland,Kirkland,WA,Robert Thompson,Bellevue,WA,Alan Frintu,Consultation NEC,288.0
+2005-01-06,Bellevue,Bellevue,WA,Andy Drury,Woodnville,WA,Lee Casts,Other skeletal x-ray,788.0
+2005-01-06,Bellevue,Bellevue,WA,Andy Drury,Woodnville,WA,Lee Casts,Other skeletal x-ray,788.0
+2005-01-06,Bellevue,Bellevue,WA,Andy Drury,Woodnville,WA,Lee Casts,Other skeletal x-ray,788.0
+2005-01-06,Bellevue,Bellevue,WA,Andy Drury,Woodnville,WA,Lee Casts,Other skeletal x-ray,788.0
+2005-01-07,Bellevue,Bellevue,WA,Mari Gash,Lynnwood,WA,Johnny Kogan,Upper limb lymphangiogrm,348.0
+2005-01-07,Kirkland,Kirkland,WA,Jeffrey Davis,Lynnwood,WA,Michael John Greer,Dx ultrasound-head/neck,488.0
+2005-01-07,Bellevue,Bellevue,WA,Mari Gash,Lynnwood,WA,Johnny Kogan,Upper limb lymphangiogrm,348.0
+2005-01-07,Kirkland,Kirkland,WA,Jeffrey Davis,Lynnwood,WA,Michael John Greer,Dx ultrasound-head/neck,488.0
+2005-01-07,Kirkland,Kirkland,WA,Jeffrey Davis,Lynnwood,WA,Michael John Greer,Dx ultrasound-head/neck,488.0
+2005-01-07,Redmond,Redmond,WA,Forrest Lee,Mill Creek,WA,Robert Hodges,Other skeletal x-ray,788.0
+2005-01-07,Kirkland,Kirkland,WA,Jeffrey Davis,Lynnwood,WA,Michael John Greer,Dx ultrasound-head/neck,488.0
+2005-01-07,Redmond,Redmond,WA,Forrest Lee,Mill Creek,WA,Robert Hodges,Other skeletal x-ray,788.0
+2005-01-07,Redmond,Redmond,WA,Forrest Lee,Mill Creek,WA,Robert Hodges,Other skeletal x-ray,788.0
+2005-01-07,Bellevue,Bellevue,WA,Dorothy Kennedy,Redmond,WA,Johnny Kogan,Dx ultrasound-grav uter,652.0
+2005-01-07,Redmond,Redmond,WA,Forrest Lee,Mill Creek,WA,Robert Hodges,Other skeletal x-ray,788.0
+2005-01-07,Bellevue,Bellevue,WA,Dorothy Kennedy,Redmond,WA,Johnny Kogan,Dx ultrasound-grav uter,652.0
+2005-01-07,Bellevue,Bellevue,WA,Dorothy Kennedy,Redmond,WA,Johnny Kogan,Dx ultrasound-grav uter,652.0
+2005-01-07,Kirkland,Kirkland,WA,Sandra Hagens,Bellevue,WA,Michael John Greer,Pelvimetry,488.0
+2005-01-07,Bellevue,Bellevue,WA,Dorothy Kennedy,Redmond,WA,Johnny Kogan,Dx ultrasound-grav uter,652.0
+2005-01-07,Kirkland,Kirkland,WA,Sandra Hagens,Bellevue,WA,Michael John Greer,Pelvimetry,488.0
+2005-01-07,Kirkland,Kirkland,WA,Sandra Hagens,Bellevue,WA,Michael John Greer,Pelvimetry,488.0
+2005-01-07,Kirkland,Kirkland,WA,Guy Lepro,Bellevue,WA,George Abercrombie,Brief interview & evalua,188.0
+2005-01-07,Kirkland,Kirkland,WA,Sandra Hagens,Bellevue,WA,Michael John Greer,Pelvimetry,488.0
+2005-01-07,Kirkland,Kirkland,WA,Guy Lepro,Bellevue,WA,George Abercrombie,Brief interview & evalua,188.0
+2005-01-07,Kirkland,Kirkland,WA,Guy Lepro,Bellevue,WA,George Abercrombie,Brief interview & evalua,188.0
+2005-01-07,Redmond,Redmond,WA,Amy Lisboa,Redmond,WA,Robert Hodges,Skel xray-pelvis/hip NEC,345.0
+2005-01-07,Kirkland,Kirkland,WA,Guy Lepro,Bellevue,WA,George Abercrombie,Brief interview & evalua,188.0
+2005-01-07,Redmond,Redmond,WA,Amy Lisboa,Redmond,WA,Robert Hodges,Skel xray-pelvis/hip NEC,345.0
+2005-01-07,Redmond,Redmond,WA,Amy Lisboa,Redmond,WA,Robert Hodges,Skel xray-pelvis/hip NEC,345.0
+2005-01-07,Redmond,Redmond,WA,Jessie Baldwin,Mill Creek,WA,Robert Hodges,Upper limb lymphangiogrm,348.0
+2005-01-07,Redmond,Redmond,WA,Amy Lisboa,Redmond,WA,Robert Hodges,Skel xray-pelvis/hip NEC,345.0
+2005-01-07,Redmond,Redmond,WA,Jessie Baldwin,Mill Creek,WA,Robert Hodges,Upper limb lymphangiogrm,348.0
+2005-01-07,Redmond,Redmond,WA,Jessie Baldwin,Mill Creek,WA,Robert Hodges,Upper limb lymphangiogrm,348.0
+2005-01-07,Redmond,Redmond,WA,James Li,Bothell,WA,Kelly Steiner,Dx ultrasound-heart,588.0
+2005-01-07,Redmond,Redmond,WA,Jessie Baldwin,Mill Creek,WA,Robert Hodges,Upper limb lymphangiogrm,348.0
+2005-01-07,Redmond,Redmond,WA,James Li,Bothell,WA,Kelly Steiner,Dx ultrasound-heart,588.0
+2005-01-07,Redmond,Redmond,WA,James Li,Bothell,WA,Kelly Steiner,Dx ultrasound-heart,588.0
+2005-01-07,Bellevue,Bellevue,WA,Donald Tench,Bellevue,WA,Elizabeth Berndt,Skl xray-shoulder/up arm,388.0
+2005-01-07,Redmond,Redmond,WA,James Li,Bothell,WA,Kelly Steiner,Dx ultrasound-heart,588.0
+2005-01-07,Bellevue,Bellevue,WA,Donald Tench,Bellevue,WA,Elizabeth Berndt,Skl xray-shoulder/up arm,388.0
+2005-01-07,Bellevue,Bellevue,WA,Donald Tench,Bellevue,WA,Elizabeth Berndt,Skl xray-shoulder/up arm,388.0
+2005-01-07,Redmond,Redmond,WA,Vassar Davis,Redmond,WA,Kelly Steiner,Dx ultrasound-abdomen,348.0
+2005-01-07,Bellevue,Bellevue,WA,Donald Tench,Bellevue,WA,Elizabeth Berndt,Skl xray-shoulder/up arm,388.0
+2005-01-07,Redmond,Redmond,WA,Vassar Davis,Redmond,WA,Kelly Steiner,Dx ultrasound-abdomen,348.0
+2005-01-07,Redmond,Redmond,WA,Vassar Davis,Redmond,WA,Kelly Steiner,Dx ultrasound-abdomen,348.0
+2005-01-07,Redmond,Redmond,WA,Alexander Ahlering,Bellevue,WA,Kelly Steiner,Dx ultrasound-digestive,388.0
+2005-01-07,Redmond,Redmond,WA,Vassar Davis,Redmond,WA,Kelly Steiner,Dx ultrasound-abdomen,348.0
+2005-01-07,Redmond,Redmond,WA,Alexander Ahlering,Bellevue,WA,Kelly Steiner,Dx ultrasound-digestive,388.0
+2005-01-07,Redmond,Redmond,WA,Alexander Ahlering,Bellevue,WA,Kelly Steiner,Dx ultrasound-digestive,388.0
+2005-01-07,Bellevue,Bellevue,WA,Lucio Diaz,Redmond,WA,Elizabeth Berndt,Interview & evaluat NEC,188.0
+2005-01-07,Redmond,Redmond,WA,Alexander Ahlering,Bellevue,WA,Kelly Steiner,Dx ultrasound-digestive,388.0
+2005-01-07,Bellevue,Bellevue,WA,Lucio Diaz,Redmond,WA,Elizabeth Berndt,Interview & evaluat NEC,188.0
+2005-01-07,Bellevue,Bellevue,WA,Lucio Diaz,Redmond,WA,Elizabeth Berndt,Interview & evaluat NEC,188.0
+2005-01-07,Kirkland,Kirkland,WA,Robert Finley,Redmond,WA,Michael John Greer,Dx ultrasound-heart,588.0
+2005-01-07,Bellevue,Bellevue,WA,Lucio Diaz,Redmond,WA,Elizabeth Berndt,Interview & evaluat NEC,188.0
+2005-01-07,Kirkland,Kirkland,WA,Robert Finley,Redmond,WA,Michael John Greer,Dx ultrasound-heart,588.0
+2005-01-07,Kirkland,Kirkland,WA,Robert Finley,Redmond,WA,Michael John Greer,Dx ultrasound-heart,588.0
+2005-01-07,Redmond,Redmond,WA,Mark Maxwell,Lynnwood,WA,Kelly Steiner,Brief interview & evalua,188.0
+2005-01-07,Kirkland,Kirkland,WA,Robert Finley,Redmond,WA,Michael John Greer,Dx ultrasound-heart,588.0
+2005-01-07,Redmond,Redmond,WA,Mark Maxwell,Lynnwood,WA,Kelly Steiner,Brief interview & evalua,188.0
+2005-01-07,Redmond,Redmond,WA,Mark Maxwell,Lynnwood,WA,Kelly Steiner,Brief interview & evalua,188.0
+2005-01-07,Redmond,Redmond,WA,Marlin Lepro,Bellevue,WA,Robert Hodges,Lower limb lymphangiogrm,258.0
+2005-01-07,Redmond,Redmond,WA,Mark Maxwell,Lynnwood,WA,Kelly Steiner,Brief interview & evalua,188.0
+2005-01-07,Redmond,Redmond,WA,Marlin Lepro,Bellevue,WA,Robert Hodges,Lower limb lymphangiogrm,258.0
+2005-01-07,Redmond,Redmond,WA,Marlin Lepro,Bellevue,WA,Robert Hodges,Lower limb lymphangiogrm,258.0
+2005-01-07,Kirkland,Kirkland,WA,Joseph Houston,Woodnville,WA,Michael John Greer,IVUS peripheral vessels,488.0
+2005-01-07,Redmond,Redmond,WA,Marlin Lepro,Bellevue,WA,Robert Hodges,Lower limb lymphangiogrm,258.0
+2005-01-07,Kirkland,Kirkland,WA,Joseph Houston,Woodnville,WA,Michael John Greer,IVUS peripheral vessels,488.0
+2005-01-07,Kirkland,Kirkland,WA,Joseph Houston,Woodnville,WA,Michael John Greer,IVUS peripheral vessels,488.0
+2005-01-07,Redmond,Redmond,WA,Jo Khan,Redmond,WA,Robert Hodges,Ther ultrasound of heart,438.0
+2005-01-07,Kirkland,Kirkland,WA,Joseph Houston,Woodnville,WA,Michael John Greer,IVUS peripheral vessels,488.0
+2005-01-07,Redmond,Redmond,WA,Jo Khan,Redmond,WA,Robert Hodges,Ther ultrasound of heart,438.0
+2005-01-07,Redmond,Redmond,WA,Jo Khan,Redmond,WA,Robert Hodges,Ther ultrasound of heart,438.0
+2005-01-07,Bellevue,Bellevue,WA,Mari Gash,Lynnwood,WA,Johnny Kogan,Upper limb lymphangiogrm,348.0
+2005-01-07,Bellevue,Bellevue,WA,Mari Gash,Lynnwood,WA,Johnny Kogan,Upper limb lymphangiogrm,348.0
+2005-01-07,Redmond,Redmond,WA,Pat Beaver,Redmond,WA,Kelly Steiner,Dx ultrasound-vascular,548.0
+2005-01-07,Redmond,Redmond,WA,Pat Beaver,Redmond,WA,Kelly Steiner,Dx ultrasound-vascular,548.0
+2005-01-07,Redmond,Redmond,WA,Pat Beaver,Redmond,WA,Kelly Steiner,Dx ultrasound-vascular,548.0
+2005-01-07,Redmond,Redmond,WA,Pat Beaver,Redmond,WA,Kelly Steiner,Dx ultrasound-vascular,548.0
+2005-01-07,Kirkland,Kirkland,WA,Jimmy Venugopal,Redmond,WA,Michael John Greer,Consultation NOS,288.0
+2005-01-07,Kirkland,Kirkland,WA,Jimmy Venugopal,Redmond,WA,Michael John Greer,Consultation NOS,288.0
+2005-01-07,Kirkland,Kirkland,WA,Jimmy Venugopal,Redmond,WA,Michael John Greer,Consultation NOS,288.0
+2005-01-07,Kirkland,Kirkland,WA,Jimmy Venugopal,Redmond,WA,Michael John Greer,Consultation NOS,288.0
+2005-01-07,Redmond,Redmond,WA,Glenn Cencini,Redmond,WA,Robert Hodges,Other skeletal x-ray,788.0
+2005-01-07,Redmond,Redmond,WA,Glenn Cencini,Redmond,WA,Robert Hodges,Other skeletal x-ray,788.0
+2005-01-07,Redmond,Redmond,WA,Glenn Cencini,Redmond,WA,Robert Hodges,Other skeletal x-ray,788.0
+2005-01-07,Redmond,Redmond,WA,Glenn Cencini,Redmond,WA,Robert Hodges,Other skeletal x-ray,788.0
+2005-01-07,Kirkland,Kirkland,WA,Thomas Vargas,Lynnwood,WA,Michael John Greer,Pelvimetry,488.0
+2005-01-07,Kirkland,Kirkland,WA,Thomas Vargas,Lynnwood,WA,Michael John Greer,Pelvimetry,488.0
+2005-01-07,Kirkland,Kirkland,WA,Thomas Vargas,Lynnwood,WA,Michael John Greer,Pelvimetry,488.0
+2005-01-07,Kirkland,Kirkland,WA,Thomas Vargas,Lynnwood,WA,Michael John Greer,Pelvimetry,488.0
+2005-01-07,Kirkland,Kirkland,WA,Lucy Bailey,Bellevue,WA,George Abercrombie,Skel xray-wrist & hand,388.0
+2005-01-07,Kirkland,Kirkland,WA,Lucy Bailey,Bellevue,WA,George Abercrombie,Skel xray-wrist & hand,388.0
+2005-01-07,Kirkland,Kirkland,WA,Lucy Bailey,Bellevue,WA,George Abercrombie,Skel xray-wrist & hand,388.0
+2005-01-07,Kirkland,Kirkland,WA,Lucy Bailey,Bellevue,WA,George Abercrombie,Skel xray-wrist & hand,388.0
+2005-01-07,Redmond,Redmond,WA,Jo Khan,Redmond,WA,Robert Hodges,Ther ultrasound of heart,438.0
+2005-01-08,Kirkland,Kirkland,WA,Janet Galos,Lynnwood,WA,Rudolph Ison,Dx ultrasound-digestive,388.0
+2005-01-08,Kirkland,Kirkland,WA,Janet Galos,Lynnwood,WA,Rudolph Ison,Dx ultrasound-digestive,388.0
+2005-01-08,Kirkland,Kirkland,WA,Janet Galos,Lynnwood,WA,Rudolph Ison,Dx ultrasound-digestive,388.0
+2005-01-08,Kirkland,Kirkland,WA,Janet Galos,Lynnwood,WA,Rudolph Ison,Dx ultrasound-digestive,388.0
+2005-01-08,Kirkland,Kirkland,WA,Anthony D'sa,Bellevue,WA,Kevin Mitchell,Interview & evaluat NOS,188.0
+2005-01-08,Kirkland,Kirkland,WA,Anthony D'sa,Bellevue,WA,Kevin Mitchell,Interview & evaluat NOS,188.0
+2005-01-08,Kirkland,Kirkland,WA,Anthony D'sa,Bellevue,WA,Kevin Mitchell,Interview & evaluat NOS,188.0
+2005-01-08,Kirkland,Kirkland,WA,Anthony D'sa,Bellevue,WA,Kevin Mitchell,Interview & evaluat NOS,188.0
+2005-01-08,Bellevue,Bellevue,WA,Julie Krane,Bothell,WA,Robert Hodges,Dx ultrasound-urinary,678.0
+2005-01-08,Bellevue,Bellevue,WA,Julie Krane,Bothell,WA,Robert Hodges,Dx ultrasound-urinary,678.0
+2005-01-08,Bellevue,Bellevue,WA,Julie Krane,Bothell,WA,Robert Hodges,Dx ultrasound-urinary,678.0
+2005-01-08,Bellevue,Bellevue,WA,Julie Krane,Bothell,WA,Robert Hodges,Dx ultrasound-urinary,678.0
+2005-01-08,Bellevue,Bellevue,WA,Alan Haugh,Lynnwood,WA,Robert Hodges,Comprehensive consultattation,288.0
+2005-01-08,Bellevue,Bellevue,WA,Alan Haugh,Lynnwood,WA,Robert Hodges,Comprehensive consultattation,288.0
+2005-01-08,Bellevue,Bellevue,WA,Alan Haugh,Lynnwood,WA,Robert Hodges,Comprehensive consultattation,288.0
+2005-01-08,Bellevue,Bellevue,WA,Alan Haugh,Lynnwood,WA,Robert Hodges,Comprehensive consultattation,288.0
+2005-01-08,Bellevue,Bellevue,WA,Cecelia Gee,Bothell,WA,Rudolph Ison,IVUS coronary vessels,488.0
+2005-01-08,Bellevue,Bellevue,WA,Cecelia Gee,Bothell,WA,Rudolph Ison,IVUS coronary vessels,488.0
+2005-01-08,Bellevue,Bellevue,WA,Cecelia Gee,Bothell,WA,Rudolph Ison,IVUS coronary vessels,488.0
+2005-01-08,Bellevue,Bellevue,WA,Cecelia Gee,Bothell,WA,Rudolph Ison,IVUS coronary vessels,488.0
+2005-01-08,Bellevue,Bellevue,WA,Linda Kaliyath,Redmond,WA,Rudolph Ison,Intravascul imaging NOS,488.0
+2005-01-08,Bellevue,Bellevue,WA,Linda Kaliyath,Redmond,WA,Rudolph Ison,Intravascul imaging NOS,488.0
+2005-01-08,Bellevue,Bellevue,WA,Linda Kaliyath,Redmond,WA,Rudolph Ison,Intravascul imaging NOS,488.0
+2005-01-08,Bellevue,Bellevue,WA,Linda Kaliyath,Redmond,WA,Rudolph Ison,Intravascul imaging NOS,488.0
+2005-01-08,Kirkland,Kirkland,WA,Shannon Cunningham,Bellevue,WA,Kevin Mitchell,Dx ultrasound-thorax NEC,588.0
+2005-01-08,Kirkland,Kirkland,WA,Shannon Cunningham,Bellevue,WA,Kevin Mitchell,Dx ultrasound-thorax NEC,588.0
+2005-01-08,Kirkland,Kirkland,WA,Shannon Cunningham,Bellevue,WA,Kevin Mitchell,Dx ultrasound-thorax NEC,588.0
+2005-01-08,Kirkland,Kirkland,WA,Shannon Cunningham,Bellevue,WA,Kevin Mitchell,Dx ultrasound-thorax NEC,588.0
+2005-01-08,Bellevue,Bellevue,WA,Cecil Mendoza,Lynnwood,WA,Robert Hodges,Dx ultrasound-head/neck,488.0
+2005-01-08,Bellevue,Bellevue,WA,Cecil Mendoza,Lynnwood,WA,Robert Hodges,Dx ultrasound-head/neck,488.0
+2005-01-08,Bellevue,Bellevue,WA,Cecil Mendoza,Lynnwood,WA,Robert Hodges,Dx ultrasound-head/neck,488.0
+2005-01-08,Bellevue,Bellevue,WA,Cecil Mendoza,Lynnwood,WA,Robert Hodges,Dx ultrasound-head/neck,488.0
+2005-01-08,Kirkland,Kirkland,WA,Samuel Toone,Bothell,WA,Rudolph Ison,Limited interview/evalua,188.0
+2005-01-08,Kirkland,Kirkland,WA,Samuel Toone,Bothell,WA,Rudolph Ison,Limited interview/evalua,188.0
+2005-01-08,Kirkland,Kirkland,WA,Samuel Toone,Bothell,WA,Rudolph Ison,Limited interview/evalua,188.0
+2005-01-08,Kirkland,Kirkland,WA,Samuel Toone,Bothell,WA,Rudolph Ison,Limited interview/evalua,188.0
+2005-01-08,Kirkland,Kirkland,WA,James Deborde,Bellevue,WA,Rudolph Ison,Interview & evaluat NEC,188.0
+2005-01-08,Kirkland,Kirkland,WA,James Deborde,Bellevue,WA,Rudolph Ison,Interview & evaluat NEC,188.0
+2005-01-08,Kirkland,Kirkland,WA,James Deborde,Bellevue,WA,Rudolph Ison,Interview & evaluat NEC,188.0
+2005-01-08,Kirkland,Kirkland,WA,James Deborde,Bellevue,WA,Rudolph Ison,Interview & evaluat NEC,188.0
+2005-01-08,Redmond,Redmond,WA,Raul Krane,Bellevue,WA,Alan Frintu,IVUS peripheral vessels,488.0
+2005-01-08,Redmond,Redmond,WA,Raul Krane,Bellevue,WA,Alan Frintu,IVUS peripheral vessels,488.0
+2005-01-08,Redmond,Redmond,WA,Raul Krane,Bellevue,WA,Alan Frintu,IVUS peripheral vessels,488.0
+2005-01-08,Redmond,Redmond,WA,Raul Krane,Bellevue,WA,Alan Frintu,IVUS peripheral vessels,488.0
+2005-01-08,Kirkland,Kirkland,WA,Helge Krane,Mill Creek,WA,Kevin Mitchell,Dx ultrasound NEC,345.0
+2005-01-08,Kirkland,Kirkland,WA,Helge Krane,Mill Creek,WA,Kevin Mitchell,Dx ultrasound NEC,345.0
+2005-01-08,Kirkland,Kirkland,WA,Helge Krane,Mill Creek,WA,Kevin Mitchell,Dx ultrasound NEC,345.0
+2005-01-08,Kirkland,Kirkland,WA,Helge Krane,Mill Creek,WA,Kevin Mitchell,Dx ultrasound NEC,345.0
+2005-01-08,Redmond,Redmond,WA,Scott Chapla,Bellevue,WA,Robert Hodges,Other C.A.T. scan,788.0
+2005-01-08,Redmond,Redmond,WA,Scott Chapla,Bellevue,WA,Robert Hodges,Other C.A.T. scan,788.0
+2005-01-08,Redmond,Redmond,WA,Scott Chapla,Bellevue,WA,Robert Hodges,Other C.A.T. scan,788.0
+2005-01-08,Redmond,Redmond,WA,Scott Chapla,Bellevue,WA,Robert Hodges,Other C.A.T. scan,788.0
+2005-01-08,Bellevue,Bellevue,WA,Matthew Krane,Bellevue,WA,Rudolph Ison,Skel xray-thigh/knee/leg,452.0
+2005-01-08,Bellevue,Bellevue,WA,Matthew Krane,Bellevue,WA,Rudolph Ison,Skel xray-thigh/knee/leg,452.0
+2005-01-08,Bellevue,Bellevue,WA,Matthew Krane,Bellevue,WA,Rudolph Ison,Skel xray-thigh/knee/leg,452.0
+2005-01-08,Bellevue,Bellevue,WA,Matthew Krane,Bellevue,WA,Rudolph Ison,Skel xray-thigh/knee/leg,452.0
+2005-01-08,Bellevue,Bellevue,WA,Janet Corets,Bellevue,WA,Robert Hodges,Dx ultrasound-abdomen,348.0
+2005-01-08,Bellevue,Bellevue,WA,Janet Corets,Bellevue,WA,Robert Hodges,Dx ultrasound-abdomen,348.0
+2005-01-08,Bellevue,Bellevue,WA,Janet Corets,Bellevue,WA,Robert Hodges,Dx ultrasound-abdomen,348.0
+2005-01-08,Bellevue,Bellevue,WA,Janet Corets,Bellevue,WA,Robert Hodges,Dx ultrasound-abdomen,348.0
+2005-01-08,Redmond,Redmond,WA,Lucio Manzanares,Redmond,WA,Robert Hodges,IVUS extracran cereb ves,448.0
+2005-01-08,Redmond,Redmond,WA,Lucio Manzanares,Redmond,WA,Robert Hodges,IVUS extracran cereb ves,448.0
+2005-01-08,Redmond,Redmond,WA,Lucio Manzanares,Redmond,WA,Robert Hodges,IVUS extracran cereb ves,448.0
+2005-01-08,Redmond,Redmond,WA,Lucio Manzanares,Redmond,WA,Robert Hodges,IVUS extracran cereb ves,448.0
+2005-01-08,Redmond,Redmond,WA,Melissa Hernandez,Bellevue,WA,Alan Frintu,Brief interview & evalua,188.0
+2005-01-08,Redmond,Redmond,WA,Melissa Hernandez,Bellevue,WA,Alan Frintu,Brief interview & evalua,188.0
+2005-01-08,Redmond,Redmond,WA,Melissa Hernandez,Bellevue,WA,Alan Frintu,Brief interview & evalua,188.0
+2005-01-08,Redmond,Redmond,WA,Melissa Hernandez,Bellevue,WA,Alan Frintu,Brief interview & evalua,188.0
+2005-01-08,Kirkland,Kirkland,WA,Daniel Track,Lynnwood,WA,Rudolph Ison," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-08,Kirkland,Kirkland,WA,Daniel Track,Lynnwood,WA,Rudolph Ison," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-08,Kirkland,Kirkland,WA,Daniel Track,Lynnwood,WA,Rudolph Ison," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-08,Kirkland,Kirkland,WA,Daniel Track,Lynnwood,WA,Rudolph Ison," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-08,Bellevue,Bellevue,WA,Joseph Chor,Bellevue,WA,Robert Hodges,Upper limb lymphangiogrm,348.0
+2005-01-08,Bellevue,Bellevue,WA,Joseph Chor,Bellevue,WA,Robert Hodges,Upper limb lymphangiogrm,348.0
+2005-01-08,Bellevue,Bellevue,WA,Joseph Chor,Bellevue,WA,Robert Hodges,Upper limb lymphangiogrm,348.0
+2005-01-08,Bellevue,Bellevue,WA,Joseph Chor,Bellevue,WA,Robert Hodges,Upper limb lymphangiogrm,348.0
+2005-01-08,Kirkland,Kirkland,WA,Frances Davis,Bellevue,WA,Kevin Mitchell,Ultrasound study of eye,423.0
+2005-01-08,Kirkland,Kirkland,WA,Frances Davis,Bellevue,WA,Kevin Mitchell,Ultrasound study of eye,423.0
+2005-01-08,Kirkland,Kirkland,WA,Frances Davis,Bellevue,WA,Kevin Mitchell,Ultrasound study of eye,423.0
+2005-01-08,Kirkland,Kirkland,WA,Frances Davis,Bellevue,WA,Kevin Mitchell,Ultrasound study of eye,423.0
+2005-01-09,Bellevue,Bellevue,WA,Jill Campbell,Redmond,WA,Rudolph Ison,Dx ultrasound-urinary,678.0
+2005-01-09,Redmond,Redmond,WA,Anton Antrim,Woodnville,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-09,Bellevue,Bellevue,WA,Jill Campbell,Redmond,WA,Rudolph Ison,Dx ultrasound-urinary,678.0
+2005-01-09,Redmond,Redmond,WA,Anton Antrim,Woodnville,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-09,Redmond,Redmond,WA,Anton Antrim,Woodnville,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-09,Kirkland,Kirkland,WA,Andrew Alpuerto,Woodnville,WA,Laura German,Dx ultrasound-grav uter,652.0
+2005-01-09,Redmond,Redmond,WA,Anton Antrim,Woodnville,WA,Elizabeth Berndt,Skeletal series x-ray,343.0
+2005-01-09,Kirkland,Kirkland,WA,Andrew Alpuerto,Woodnville,WA,Laura German,Dx ultrasound-grav uter,652.0
+2005-01-09,Kirkland,Kirkland,WA,Andrew Alpuerto,Woodnville,WA,Laura German,Dx ultrasound-grav uter,652.0
+2005-01-09,Kirkland,Kirkland,WA,Gary Benson,Lynnwood,WA,Laura German,Limited interview/evalua,188.0
+2005-01-09,Kirkland,Kirkland,WA,Andrew Alpuerto,Woodnville,WA,Laura German,Dx ultrasound-grav uter,652.0
+2005-01-09,Kirkland,Kirkland,WA,Gary Benson,Lynnwood,WA,Laura German,Limited interview/evalua,188.0
+2005-01-09,Kirkland,Kirkland,WA,Gary Benson,Lynnwood,WA,Laura German,Limited interview/evalua,188.0
+2005-01-09,Kirkland,Kirkland,WA,Nancy Huff,Bellevue,WA,George Abercrombie,Dx ultrasound-thorax NEC,588.0
+2005-01-09,Kirkland,Kirkland,WA,Gary Benson,Lynnwood,WA,Laura German,Limited interview/evalua,188.0
+2005-01-09,Kirkland,Kirkland,WA,Nancy Huff,Bellevue,WA,George Abercrombie,Dx ultrasound-thorax NEC,588.0
+2005-01-09,Kirkland,Kirkland,WA,Nancy Huff,Bellevue,WA,George Abercrombie,Dx ultrasound-thorax NEC,588.0
+2005-01-09,Bellevue,Bellevue,WA,Beth Leonetti,Redmond,WA,Robert Hodges,Dx ultrasound-heart,588.0
+2005-01-09,Kirkland,Kirkland,WA,Nancy Huff,Bellevue,WA,George Abercrombie,Dx ultrasound-thorax NEC,588.0
+2005-01-09,Bellevue,Bellevue,WA,Beth Leonetti,Redmond,WA,Robert Hodges,Dx ultrasound-heart,588.0
+2005-01-09,Bellevue,Bellevue,WA,Beth Leonetti,Redmond,WA,Robert Hodges,Dx ultrasound-heart,588.0
+2005-01-09,Bellevue,Bellevue,WA,Jill Campbell,Redmond,WA,Rudolph Ison,Dx ultrasound-urinary,678.0
+2005-01-09,Bellevue,Bellevue,WA,Beth Leonetti,Redmond,WA,Robert Hodges,Dx ultrasound-heart,588.0
+2005-01-09,Bellevue,Bellevue,WA,Jill Campbell,Redmond,WA,Rudolph Ison,Dx ultrasound-urinary,678.0
+2005-01-09,Kirkland,Kirkland,WA,Eugene Thompson,Redmond,WA,George Abercrombie,Limited interview/evalua,188.0
+2005-01-09,Kirkland,Kirkland,WA,Eugene Thompson,Redmond,WA,George Abercrombie,Limited interview/evalua,188.0
+2005-01-09,Kirkland,Kirkland,WA,Eugene Thompson,Redmond,WA,George Abercrombie,Limited interview/evalua,188.0
+2005-01-09,Kirkland,Kirkland,WA,Eugene Thompson,Redmond,WA,George Abercrombie,Limited interview/evalua,188.0
+2005-01-09,Bellevue,Bellevue,WA,Danielle Bready,Lynnwood,WA,Robert Hodges,Skl xray-shoulder/up arm,388.0
+2005-01-09,Bellevue,Bellevue,WA,Danielle Bready,Lynnwood,WA,Robert Hodges,Skl xray-shoulder/up arm,388.0
+2005-01-09,Bellevue,Bellevue,WA,Danielle Bready,Lynnwood,WA,Robert Hodges,Skl xray-shoulder/up arm,388.0
+2005-01-09,Bellevue,Bellevue,WA,Danielle Bready,Lynnwood,WA,Robert Hodges,Skl xray-shoulder/up arm,388.0
+2005-01-09,Kirkland,Kirkland,WA,Denean De Matos Miranda Filho,Bellevue,WA,Laura German,Dx ultrasound-urinary,678.0
+2005-01-09,Kirkland,Kirkland,WA,Denean De Matos Miranda Filho,Bellevue,WA,Laura German,Dx ultrasound-urinary,678.0
+2005-01-09,Kirkland,Kirkland,WA,Denean De Matos Miranda Filho,Bellevue,WA,Laura German,Dx ultrasound-urinary,678.0
+2005-01-09,Kirkland,Kirkland,WA,Denean De Matos Miranda Filho,Bellevue,WA,Laura German,Dx ultrasound-urinary,678.0
+2005-01-09,Kirkland,Kirkland,WA,Dylan Bustamante,Bothell,WA,Laura German,IVUS coronary vessels,488.0
+2005-01-09,Kirkland,Kirkland,WA,Dylan Bustamante,Bothell,WA,Laura German,IVUS coronary vessels,488.0
+2005-01-09,Kirkland,Kirkland,WA,Dylan Bustamante,Bothell,WA,Laura German,IVUS coronary vessels,488.0
+2005-01-09,Kirkland,Kirkland,WA,Dylan Bustamante,Bothell,WA,Laura German,IVUS coronary vessels,488.0
+2005-01-09,Bellevue,Bellevue,WA,Kay Hagens,Woodnville,WA,Robert Hodges,Skel xray-lower limb NOS,538.0
+2005-01-09,Bellevue,Bellevue,WA,Kay Hagens,Woodnville,WA,Robert Hodges,Skel xray-lower limb NOS,538.0
+2005-01-09,Bellevue,Bellevue,WA,Kay Hagens,Woodnville,WA,Robert Hodges,Skel xray-lower limb NOS,538.0
+2005-01-09,Bellevue,Bellevue,WA,Kay Hagens,Woodnville,WA,Robert Hodges,Skel xray-lower limb NOS,538.0
+2005-01-09,Kirkland,Kirkland,WA,Edna D'Hers,Lynnwood,WA,Laura German,Limited interview/evalua,188.0
+2005-01-09,Kirkland,Kirkland,WA,Edna D'Hers,Lynnwood,WA,Laura German,Limited interview/evalua,188.0
+2005-01-09,Kirkland,Kirkland,WA,Edna D'Hers,Lynnwood,WA,Laura German,Limited interview/evalua,188.0
+2005-01-09,Kirkland,Kirkland,WA,Edna D'Hers,Lynnwood,WA,Laura German,Limited interview/evalua,188.0
+2005-01-09,Redmond,Redmond,WA,Joe Blythe,Bellevue,WA,Elizabeth Berndt,Contrast arthrogram,238.0
+2005-01-09,Redmond,Redmond,WA,Joe Blythe,Bellevue,WA,Elizabeth Berndt,Contrast arthrogram,238.0
+2005-01-09,Redmond,Redmond,WA,Joe Blythe,Bellevue,WA,Elizabeth Berndt,Contrast arthrogram,238.0
+2005-01-09,Redmond,Redmond,WA,Joe Blythe,Bellevue,WA,Elizabeth Berndt,Contrast arthrogram,238.0
+2005-01-09,Kirkland,Kirkland,WA,Scott Desai,Redmond,WA,Laura German,Limited consultation,288.0
+2005-01-09,Kirkland,Kirkland,WA,Scott Desai,Redmond,WA,Laura German,Limited consultation,288.0
+2005-01-09,Kirkland,Kirkland,WA,Scott Desai,Redmond,WA,Laura German,Limited consultation,288.0
+2005-01-09,Kirkland,Kirkland,WA,Scott Desai,Redmond,WA,Laura German,Limited consultation,288.0
+2005-01-09,Redmond,Redmond,WA,Chris Abercrombie,Mill Creek,WA,Michael John Greer,Consultation NEC,288.0
+2005-01-09,Redmond,Redmond,WA,Chris Abercrombie,Mill Creek,WA,Michael John Greer,Consultation NEC,288.0
+2005-01-09,Redmond,Redmond,WA,Chris Abercrombie,Mill Creek,WA,Michael John Greer,Consultation NEC,288.0
+2005-01-09,Redmond,Redmond,WA,Chris Abercrombie,Mill Creek,WA,Michael John Greer,Consultation NEC,288.0
+2005-01-09,Bellevue,Bellevue,WA,Jimmy Brunner,Bellevue,WA,Robert Hodges,Other C.A.T. scan,788.0
+2005-01-09,Bellevue,Bellevue,WA,Jimmy Brunner,Bellevue,WA,Robert Hodges,Other C.A.T. scan,788.0
+2005-01-09,Bellevue,Bellevue,WA,Jimmy Brunner,Bellevue,WA,Robert Hodges,Other C.A.T. scan,788.0
+2005-01-09,Bellevue,Bellevue,WA,Jimmy Brunner,Bellevue,WA,Robert Hodges,Other C.A.T. scan,788.0
+2005-01-09,Kirkland,Kirkland,WA,Dylan Byham,Bellevue,WA,Laura German,IVUS intrathoracic ves,568.0
+2005-01-09,Kirkland,Kirkland,WA,Dylan Byham,Bellevue,WA,Laura German,IVUS intrathoracic ves,568.0
+2005-01-09,Kirkland,Kirkland,WA,Dylan Byham,Bellevue,WA,Laura German,IVUS intrathoracic ves,568.0
+2005-01-09,Kirkland,Kirkland,WA,Dylan Byham,Bellevue,WA,Laura German,IVUS intrathoracic ves,568.0
+2005-01-09,Kirkland,Kirkland,WA,Mary Tatman,Bellevue,WA,Laura German,Dx ultrasound-abdomen,348.0
+2005-01-09,Kirkland,Kirkland,WA,Mary Tatman,Bellevue,WA,Laura German,Dx ultrasound-abdomen,348.0
+2005-01-09,Kirkland,Kirkland,WA,Mary Tatman,Bellevue,WA,Laura German,Dx ultrasound-abdomen,348.0
+2005-01-09,Kirkland,Kirkland,WA,Mary Tatman,Bellevue,WA,Laura German,Dx ultrasound-abdomen,348.0
+2005-01-09,Bellevue,Bellevue,WA,Yuping Lisboa,Mill Creek,WA,Robert Hodges,Dx ultrasound-thorax NEC,588.0
+2005-01-09,Bellevue,Bellevue,WA,Yuping Lisboa,Mill Creek,WA,Robert Hodges,Dx ultrasound-thorax NEC,588.0
+2005-01-09,Bellevue,Bellevue,WA,Yuping Lisboa,Mill Creek,WA,Robert Hodges,Dx ultrasound-thorax NEC,588.0
+2005-01-09,Bellevue,Bellevue,WA,Yuping Lisboa,Mill Creek,WA,Robert Hodges,Dx ultrasound-thorax NEC,588.0
+2005-01-09,Kirkland,Kirkland,WA,James Van Houten,Lynnwood,WA,Laura German,Other skeletal x-ray,788.0
+2005-01-09,Kirkland,Kirkland,WA,James Van Houten,Lynnwood,WA,Laura German,Other skeletal x-ray,788.0
+2005-01-09,Kirkland,Kirkland,WA,James Van Houten,Lynnwood,WA,Laura German,Other skeletal x-ray,788.0
+2005-01-09,Kirkland,Kirkland,WA,James Van Houten,Lynnwood,WA,Laura German,Other skeletal x-ray,788.0
+2005-01-09,Bellevue,Bellevue,WA,Mary Chandler,Lynnwood,WA,Robert Hodges,Intravascul imaging NOS,488.0
+2005-01-09,Bellevue,Bellevue,WA,Mary Chandler,Lynnwood,WA,Robert Hodges,Intravascul imaging NOS,488.0
+2005-01-09,Bellevue,Bellevue,WA,Mary Chandler,Lynnwood,WA,Robert Hodges,Intravascul imaging NOS,488.0
+2005-01-09,Bellevue,Bellevue,WA,Mary Chandler,Lynnwood,WA,Robert Hodges,Intravascul imaging NOS,488.0
+2005-01-09,Bellevue,Bellevue,WA,Denean Hill,Mill Creek,WA,Robert Hodges,Dx ultrasound-abdomen,348.0
+2005-01-09,Bellevue,Bellevue,WA,Denean Hill,Mill Creek,WA,Robert Hodges,Dx ultrasound-abdomen,348.0
+2005-01-09,Bellevue,Bellevue,WA,Denean Hill,Mill Creek,WA,Robert Hodges,Dx ultrasound-abdomen,348.0
+2005-01-09,Bellevue,Bellevue,WA,Denean Hill,Mill Creek,WA,Robert Hodges,Dx ultrasound-abdomen,348.0
+2005-01-10,Redmond,Redmond,WA,Gary Ismert,Woodnville,WA,Michael John Greer,Limited consultation,288.0
+2005-01-10,Redmond,Redmond,WA,Imtiaz Kumar,Bellevue,WA,Michael John Greer,Brief interview & evalua,188.0
+2005-01-10,Redmond,Redmond,WA,Gary Ismert,Woodnville,WA,Michael John Greer,Limited consultation,288.0
+2005-01-10,Redmond,Redmond,WA,Imtiaz Kumar,Bellevue,WA,Michael John Greer,Brief interview & evalua,188.0
+2005-01-10,Redmond,Redmond,WA,Imtiaz Kumar,Bellevue,WA,Michael John Greer,Brief interview & evalua,188.0
+2005-01-10,Kirkland,Kirkland,WA,Yvonne Krupka,Bellevue,WA,Laura German,Ultrasound study of eye,423.0
+2005-01-10,Redmond,Redmond,WA,Imtiaz Kumar,Bellevue,WA,Michael John Greer,Brief interview & evalua,188.0
+2005-01-10,Kirkland,Kirkland,WA,Yvonne Krupka,Bellevue,WA,Laura German,Ultrasound study of eye,423.0
+2005-01-10,Kirkland,Kirkland,WA,Yvonne Krupka,Bellevue,WA,Laura German,Ultrasound study of eye,423.0
+2005-01-10,Redmond,Redmond,WA,Jolie Dodd,Bothell,WA,Ben Goldstein,Dx ultrasound-abdomen,348.0
+2005-01-10,Kirkland,Kirkland,WA,Yvonne Krupka,Bellevue,WA,Laura German,Ultrasound study of eye,423.0
+2005-01-10,Redmond,Redmond,WA,Jolie Dodd,Bothell,WA,Ben Goldstein,Dx ultrasound-abdomen,348.0
+2005-01-10,Redmond,Redmond,WA,Jolie Dodd,Bothell,WA,Ben Goldstein,Dx ultrasound-abdomen,348.0
+2005-01-10,Redmond,Redmond,WA,Cecelia Hagens,Woodnville,WA,Ben Goldstein,Upper limb lymphangiogrm,348.0
+2005-01-10,Redmond,Redmond,WA,Jolie Dodd,Bothell,WA,Ben Goldstein,Dx ultrasound-abdomen,348.0
+2005-01-10,Redmond,Redmond,WA,Cecelia Hagens,Woodnville,WA,Ben Goldstein,Upper limb lymphangiogrm,348.0
+2005-01-10,Redmond,Redmond,WA,Cecelia Hagens,Woodnville,WA,Ben Goldstein,Upper limb lymphangiogrm,348.0
+2005-01-10,Kirkland,Kirkland,WA,Bonnie Looney,Bellevue,WA,Laura German,Skel xray-ankle & foot,345.0
+2005-01-10,Redmond,Redmond,WA,Cecelia Hagens,Woodnville,WA,Ben Goldstein,Upper limb lymphangiogrm,348.0
+2005-01-10,Kirkland,Kirkland,WA,Bonnie Looney,Bellevue,WA,Laura German,Skel xray-ankle & foot,345.0
+2005-01-10,Kirkland,Kirkland,WA,Bonnie Looney,Bellevue,WA,Laura German,Skel xray-ankle & foot,345.0
+2005-01-10,Redmond,Redmond,WA,Gary Ismert,Woodnville,WA,Michael John Greer,Limited consultation,288.0
+2005-01-10,Kirkland,Kirkland,WA,Bonnie Looney,Bellevue,WA,Laura German,Skel xray-ankle & foot,345.0
+2005-01-10,Redmond,Redmond,WA,Gary Ismert,Woodnville,WA,Michael John Greer,Limited consultation,288.0
+2005-01-10,Redmond,Redmond,WA,Scott Kitt,Bellevue,WA,Ben Goldstein,Dx ultrasound-urinary,678.0
+2005-01-10,Redmond,Redmond,WA,Scott Kitt,Bellevue,WA,Ben Goldstein,Dx ultrasound-urinary,678.0
+2005-01-10,Redmond,Redmond,WA,Scott Kitt,Bellevue,WA,Ben Goldstein,Dx ultrasound-urinary,678.0
+2005-01-10,Redmond,Redmond,WA,Scott Kitt,Bellevue,WA,Ben Goldstein,Dx ultrasound-urinary,678.0
+2005-01-10,Bellevue,Bellevue,WA,Randall Hagens,Redmond,WA,Johnny Kogan,Dx ultrasound-grav uter,652.0
+2005-01-10,Bellevue,Bellevue,WA,Randall Hagens,Redmond,WA,Johnny Kogan,Dx ultrasound-grav uter,652.0
+2005-01-10,Bellevue,Bellevue,WA,Randall Hagens,Redmond,WA,Johnny Kogan,Dx ultrasound-grav uter,652.0
+2005-01-10,Bellevue,Bellevue,WA,Randall Hagens,Redmond,WA,Johnny Kogan,Dx ultrasound-grav uter,652.0
+2005-01-10,Redmond,Redmond,WA,Donald Esteves,Bellevue,WA,Ben Goldstein,Ther ult head & neck ves,348.0
+2005-01-10,Redmond,Redmond,WA,Donald Esteves,Bellevue,WA,Ben Goldstein,Ther ult head & neck ves,348.0
+2005-01-10,Redmond,Redmond,WA,Donald Esteves,Bellevue,WA,Ben Goldstein,Ther ult head & neck ves,348.0
+2005-01-10,Redmond,Redmond,WA,Donald Esteves,Bellevue,WA,Ben Goldstein,Ther ult head & neck ves,348.0
+2005-01-10,Redmond,Redmond,WA,Mete Jaffe,Redmond,WA,Ben Goldstein,IVUS coronary vessels,488.0
+2005-01-10,Redmond,Redmond,WA,Mete Jaffe,Redmond,WA,Ben Goldstein,IVUS coronary vessels,488.0
+2005-01-10,Redmond,Redmond,WA,Mete Jaffe,Redmond,WA,Ben Goldstein,IVUS coronary vessels,488.0
+2005-01-10,Redmond,Redmond,WA,Mete Jaffe,Redmond,WA,Ben Goldstein,IVUS coronary vessels,488.0
+2005-01-10,Bellevue,Bellevue,WA,Karren Jacobson,Lynnwood,WA,Laura German,Ultrasound study of eye,423.0
+2005-01-10,Bellevue,Bellevue,WA,Karren Jacobson,Lynnwood,WA,Laura German,Ultrasound study of eye,423.0
+2005-01-10,Bellevue,Bellevue,WA,Karren Jacobson,Lynnwood,WA,Laura German,Ultrasound study of eye,423.0
+2005-01-10,Bellevue,Bellevue,WA,Karren Jacobson,Lynnwood,WA,Laura German,Ultrasound study of eye,423.0
+2005-01-10,Bellevue,Bellevue,WA,Robert Lenehan,Bothell,WA,Laura German,Brief interview & evalua,188.0
+2005-01-10,Bellevue,Bellevue,WA,Robert Lenehan,Bothell,WA,Laura German,Brief interview & evalua,188.0
+2005-01-10,Bellevue,Bellevue,WA,Robert Lenehan,Bothell,WA,Laura German,Brief interview & evalua,188.0
+2005-01-10,Bellevue,Bellevue,WA,Robert Lenehan,Bothell,WA,Laura German,Brief interview & evalua,188.0
+2005-01-10,Kirkland,Kirkland,WA,Joyce Huff,Redmond,WA,Laura German,Comprehen interview/eval,188.0
+2005-01-10,Kirkland,Kirkland,WA,Joyce Huff,Redmond,WA,Laura German,Comprehen interview/eval,188.0
+2005-01-10,Kirkland,Kirkland,WA,Joyce Huff,Redmond,WA,Laura German,Comprehen interview/eval,188.0
+2005-01-10,Kirkland,Kirkland,WA,Joyce Huff,Redmond,WA,Laura German,Comprehen interview/eval,188.0
+2005-01-10,Redmond,Redmond,WA,Neva Keyser,Bellevue,WA,Michael John Greer,IVUS renal vessels,588.0
+2005-01-10,Redmond,Redmond,WA,Neva Keyser,Bellevue,WA,Michael John Greer,IVUS renal vessels,588.0
+2005-01-10,Redmond,Redmond,WA,Neva Keyser,Bellevue,WA,Michael John Greer,IVUS renal vessels,588.0
+2005-01-10,Redmond,Redmond,WA,Neva Keyser,Bellevue,WA,Michael John Greer,IVUS renal vessels,588.0
+2005-01-10,Kirkland,Kirkland,WA,John McLin,Mill Creek,WA,Laura German,Intravascul imaging NOS,488.0
+2005-01-10,Kirkland,Kirkland,WA,John McLin,Mill Creek,WA,Laura German,Intravascul imaging NOS,488.0
+2005-01-10,Kirkland,Kirkland,WA,John McLin,Mill Creek,WA,Laura German,Intravascul imaging NOS,488.0
+2005-01-10,Kirkland,Kirkland,WA,John McLin,Mill Creek,WA,Laura German,Intravascul imaging NOS,488.0
+2005-01-10,Bellevue,Bellevue,WA,Andrea Ison,Bothell,WA,Johnny Kogan,Ther ult peripheral ves,435.0
+2005-01-10,Bellevue,Bellevue,WA,Andrea Ison,Bothell,WA,Johnny Kogan,Ther ult peripheral ves,435.0
+2005-01-10,Bellevue,Bellevue,WA,Andrea Ison,Bothell,WA,Johnny Kogan,Ther ult peripheral ves,435.0
+2005-01-10,Bellevue,Bellevue,WA,Andrea Ison,Bothell,WA,Johnny Kogan,Ther ult peripheral ves,435.0
+2005-01-10,Kirkland,Kirkland,WA,Douglas Lucerne,Bellevue,WA,Laura German,Consultation NEC,288.0
+2005-01-10,Kirkland,Kirkland,WA,Douglas Lucerne,Bellevue,WA,Laura German,Consultation NEC,288.0
+2005-01-10,Kirkland,Kirkland,WA,Douglas Lucerne,Bellevue,WA,Laura German,Consultation NEC,288.0
+2005-01-10,Kirkland,Kirkland,WA,Douglas Lucerne,Bellevue,WA,Laura German,Consultation NEC,288.0
+2005-01-10,Kirkland,Kirkland,WA,Nieves Kim,Redmond,WA,Laura German,Ther ult head & neck ves,348.0
+2005-01-10,Kirkland,Kirkland,WA,Nieves Kim,Redmond,WA,Laura German,Ther ult head & neck ves,348.0
+2005-01-10,Kirkland,Kirkland,WA,Nieves Kim,Redmond,WA,Laura German,Ther ult head & neck ves,348.0
+2005-01-10,Kirkland,Kirkland,WA,Nieves Kim,Redmond,WA,Laura German,Ther ult head & neck ves,348.0
+2005-01-10,Bellevue,Bellevue,WA,Diane Bright,Bothell,WA,Laura German,Skel xray-wrist & hand,388.0
+2005-01-10,Bellevue,Bellevue,WA,Diane Bright,Bothell,WA,Laura German,Skel xray-wrist & hand,388.0
+2005-01-10,Bellevue,Bellevue,WA,Diane Bright,Bothell,WA,Laura German,Skel xray-wrist & hand,388.0
+2005-01-10,Bellevue,Bellevue,WA,Diane Bright,Bothell,WA,Laura German,Skel xray-wrist & hand,388.0
+2005-01-10,Kirkland,Kirkland,WA,Alan Track,Redmond,WA,Laura German,Skel xray-thigh/knee/leg,452.0
+2005-01-10,Kirkland,Kirkland,WA,Alan Track,Redmond,WA,Laura German,Skel xray-thigh/knee/leg,452.0
+2005-01-10,Kirkland,Kirkland,WA,Alan Track,Redmond,WA,Laura German,Skel xray-thigh/knee/leg,452.0
+2005-01-10,Kirkland,Kirkland,WA,Alan Track,Redmond,WA,Laura German,Skel xray-thigh/knee/leg,452.0
+2005-01-10,Kirkland,Kirkland,WA,Frank Gage,Redmond,WA,Laura German,Other skeletal x-ray,788.0
+2005-01-10,Kirkland,Kirkland,WA,Frank Gage,Redmond,WA,Laura German,Other skeletal x-ray,788.0
+2005-01-10,Kirkland,Kirkland,WA,Frank Gage,Redmond,WA,Laura German,Other skeletal x-ray,788.0
+2005-01-10,Kirkland,Kirkland,WA,Frank Gage,Redmond,WA,Laura German,Other skeletal x-ray,788.0
+2005-01-10,Kirkland,Kirkland,WA,Keith Gash,Redmond,WA,Laura German,X-ray NEC and NOS,188.0
+2005-01-10,Kirkland,Kirkland,WA,Keith Gash,Redmond,WA,Laura German,X-ray NEC and NOS,188.0
+2005-01-10,Kirkland,Kirkland,WA,Keith Gash,Redmond,WA,Laura German,X-ray NEC and NOS,188.0
+2005-01-10,Kirkland,Kirkland,WA,Keith Gash,Redmond,WA,Laura German,X-ray NEC and NOS,188.0
+2005-01-11,Bellevue,Bellevue,WA,Gail Vasquez,Bellevue,WA,Michael John Greer,Contrast arthrogram,238.0
+2005-01-11,Kirkland,Kirkland,WA,Marjorie Heaney,Lynnwood,WA,Lee Casts,Intravascul imaging NOS,488.0
+2005-01-11,Kirkland,Kirkland,WA,Marjorie Heaney,Lynnwood,WA,Lee Casts,Intravascul imaging NOS,488.0
+2005-01-11,Kirkland,Kirkland,WA,Marjorie Heaney,Lynnwood,WA,Lee Casts,Intravascul imaging NOS,488.0
+2005-01-11,Kirkland,Kirkland,WA,Marjorie Heaney,Lynnwood,WA,Lee Casts,Intravascul imaging NOS,488.0
+2005-01-11,Redmond,Redmond,WA,Mihail Lengel,Redmond,WA,Alan Frintu,Ther ult head & neck ves,348.0
+2005-01-11,Redmond,Redmond,WA,Mihail Lengel,Redmond,WA,Alan Frintu,Ther ult head & neck ves,348.0
+2005-01-11,Redmond,Redmond,WA,Mihail Lengel,Redmond,WA,Alan Frintu,Ther ult head & neck ves,348.0
+2005-01-11,Redmond,Redmond,WA,Mihail Lengel,Redmond,WA,Alan Frintu,Ther ult head & neck ves,348.0
+2005-01-11,Kirkland,Kirkland,WA,Janet Taylor,Bellevue,WA,Lee Casts,Retroperitoneal xray NEC,234.0
+2005-01-11,Kirkland,Kirkland,WA,Janet Taylor,Bellevue,WA,Lee Casts,Retroperitoneal xray NEC,234.0
+2005-01-11,Kirkland,Kirkland,WA,Janet Taylor,Bellevue,WA,Lee Casts,Retroperitoneal xray NEC,234.0
+2005-01-11,Kirkland,Kirkland,WA,Janet Taylor,Bellevue,WA,Lee Casts,Retroperitoneal xray NEC,234.0
+2005-01-11,Kirkland,Kirkland,WA,Robin Mitchell,Mill Creek,WA,Robert Hodges,Ther ultrasound of heart,438.0
+2005-01-11,Kirkland,Kirkland,WA,Robin Mitchell,Mill Creek,WA,Robert Hodges,Ther ultrasound of heart,438.0
+2005-01-11,Kirkland,Kirkland,WA,Robin Mitchell,Mill Creek,WA,Robert Hodges,Ther ultrasound of heart,438.0
+2005-01-11,Kirkland,Kirkland,WA,Robin Mitchell,Mill Creek,WA,Robert Hodges,Ther ultrasound of heart,438.0
+2005-01-11,Bellevue,Bellevue,WA,Brian Jacobson,Redmond,WA,Alan Frintu,Limited interview/evalua,188.0
+2005-01-11,Bellevue,Bellevue,WA,Brian Jacobson,Redmond,WA,Alan Frintu,Limited interview/evalua,188.0
+2005-01-11,Bellevue,Bellevue,WA,Brian Jacobson,Redmond,WA,Alan Frintu,Limited interview/evalua,188.0
+2005-01-11,Bellevue,Bellevue,WA,Brian Jacobson,Redmond,WA,Alan Frintu,Limited interview/evalua,188.0
+2005-01-11,Bellevue,Bellevue,WA,Elizabeth Ashton,Lynnwood,WA,Alan Frintu,Pelvimetry,488.0
+2005-01-11,Bellevue,Bellevue,WA,Elizabeth Ashton,Lynnwood,WA,Alan Frintu,Pelvimetry,488.0
+2005-01-11,Bellevue,Bellevue,WA,Gail Vasquez,Bellevue,WA,Michael John Greer,Contrast arthrogram,238.0
+2005-01-11,Bellevue,Bellevue,WA,Gail Vasquez,Bellevue,WA,Michael John Greer,Contrast arthrogram,238.0
+2005-01-11,Redmond,Redmond,WA,Elizabeth Jacobson,Redmond,WA,Michael John Greer,Interview & evaluat NEC,188.0
+2005-01-11,Bellevue,Bellevue,WA,Gail Vasquez,Bellevue,WA,Michael John Greer,Contrast arthrogram,238.0
+2005-01-11,Redmond,Redmond,WA,Elizabeth Jacobson,Redmond,WA,Michael John Greer,Interview & evaluat NEC,188.0
+2005-01-11,Redmond,Redmond,WA,Elizabeth Jacobson,Redmond,WA,Michael John Greer,Interview & evaluat NEC,188.0
+2005-01-11,Redmond,Redmond,WA,Vance Handley,Bellevue,WA,Michael John Greer,Skeletal series x-ray,343.0
+2005-01-11,Redmond,Redmond,WA,Elizabeth Jacobson,Redmond,WA,Michael John Greer,Interview & evaluat NEC,188.0
+2005-01-11,Redmond,Redmond,WA,Vance Handley,Bellevue,WA,Michael John Greer,Skeletal series x-ray,343.0
+2005-01-11,Redmond,Redmond,WA,Vance Handley,Bellevue,WA,Michael John Greer,Skeletal series x-ray,343.0
+2005-01-11,Bellevue,Bellevue,WA,Megan Antrim,Redmond,WA,Alan Frintu,Lo limb sft tis xray NEC,388.0
+2005-01-11,Redmond,Redmond,WA,Vance Handley,Bellevue,WA,Michael John Greer,Skeletal series x-ray,343.0
+2005-01-11,Bellevue,Bellevue,WA,Megan Antrim,Redmond,WA,Alan Frintu,Lo limb sft tis xray NEC,388.0
+2005-01-11,Bellevue,Bellevue,WA,Megan Antrim,Redmond,WA,Alan Frintu,Lo limb sft tis xray NEC,388.0
+2005-01-11,Kirkland,Kirkland,WA,Dominic Christie,Bellevue,WA,Lee Casts,IVUS renal vessels,588.0
+2005-01-11,Bellevue,Bellevue,WA,Megan Antrim,Redmond,WA,Alan Frintu,Lo limb sft tis xray NEC,388.0
+2005-01-11,Kirkland,Kirkland,WA,Dominic Christie,Bellevue,WA,Lee Casts,IVUS renal vessels,588.0
+2005-01-11,Kirkland,Kirkland,WA,Dominic Christie,Bellevue,WA,Lee Casts,IVUS renal vessels,588.0
+2005-01-11,Redmond,Redmond,WA,Matthias Colvin,Bellevue,WA,Lee Casts,Consultation NEC,288.0
+2005-01-11,Kirkland,Kirkland,WA,Dominic Christie,Bellevue,WA,Lee Casts,IVUS renal vessels,588.0
+2005-01-11,Redmond,Redmond,WA,Matthias Colvin,Bellevue,WA,Lee Casts,Consultation NEC,288.0
+2005-01-11,Redmond,Redmond,WA,Matthias Colvin,Bellevue,WA,Lee Casts,Consultation NEC,288.0
+2005-01-11,Redmond,Redmond,WA,Michelle Kim,Bellevue,WA,Michael John Greer,Dx ultrasound NEC,345.0
+2005-01-11,Redmond,Redmond,WA,Matthias Colvin,Bellevue,WA,Lee Casts,Consultation NEC,288.0
+2005-01-11,Redmond,Redmond,WA,Michelle Kim,Bellevue,WA,Michael John Greer,Dx ultrasound NEC,345.0
+2005-01-11,Redmond,Redmond,WA,Michelle Kim,Bellevue,WA,Michael John Greer,Dx ultrasound NEC,345.0
+2005-01-11,Bellevue,Bellevue,WA,Margaret Sutton,Lynnwood,WA,Michael John Greer,Dx ultrasound-heart,588.0
+2005-01-11,Redmond,Redmond,WA,Michelle Kim,Bellevue,WA,Michael John Greer,Dx ultrasound NEC,345.0
+2005-01-11,Bellevue,Bellevue,WA,Margaret Sutton,Lynnwood,WA,Michael John Greer,Dx ultrasound-heart,588.0
+2005-01-11,Bellevue,Bellevue,WA,Margaret Sutton,Lynnwood,WA,Michael John Greer,Dx ultrasound-heart,588.0
+2005-01-11,Kirkland,Kirkland,WA,Terry Leavitt,Bellevue,WA,Lee Casts,Dx ultrasound-abdomen,348.0
+2005-01-11,Bellevue,Bellevue,WA,Margaret Sutton,Lynnwood,WA,Michael John Greer,Dx ultrasound-heart,588.0
+2005-01-11,Kirkland,Kirkland,WA,Terry Leavitt,Bellevue,WA,Lee Casts,Dx ultrasound-abdomen,348.0
+2005-01-11,Kirkland,Kirkland,WA,Terry Leavitt,Bellevue,WA,Lee Casts,Dx ultrasound-abdomen,348.0
+2005-01-11,Bellevue,Bellevue,WA,Rhoda Fulton,Lynnwood,WA,Michael John Greer,Skel xray-wrist & hand,388.0
+2005-01-11,Kirkland,Kirkland,WA,Terry Leavitt,Bellevue,WA,Lee Casts,Dx ultrasound-abdomen,348.0
+2005-01-11,Bellevue,Bellevue,WA,Rhoda Fulton,Lynnwood,WA,Michael John Greer,Skel xray-wrist & hand,388.0
+2005-01-11,Bellevue,Bellevue,WA,Rhoda Fulton,Lynnwood,WA,Michael John Greer,Skel xray-wrist & hand,388.0
+2005-01-11,Kirkland,Kirkland,WA,Joseph Alpuerto,Lynnwood,WA,Lee Casts,Retroperitoneal xray NEC,234.0
+2005-01-11,Bellevue,Bellevue,WA,Rhoda Fulton,Lynnwood,WA,Michael John Greer,Skel xray-wrist & hand,388.0
+2005-01-11,Kirkland,Kirkland,WA,Joseph Alpuerto,Lynnwood,WA,Lee Casts,Retroperitoneal xray NEC,234.0
+2005-01-11,Kirkland,Kirkland,WA,Joseph Alpuerto,Lynnwood,WA,Lee Casts,Retroperitoneal xray NEC,234.0
+2005-01-11,Redmond,Redmond,WA,Carol Hernandez,Bellevue,WA,Alan Frintu,Skel xray-lower limb NOS,538.0
+2005-01-11,Kirkland,Kirkland,WA,Joseph Alpuerto,Lynnwood,WA,Lee Casts,Retroperitoneal xray NEC,234.0
+2005-01-11,Redmond,Redmond,WA,Carol Hernandez,Bellevue,WA,Alan Frintu,Skel xray-lower limb NOS,538.0
+2005-01-11,Redmond,Redmond,WA,Carol Hernandez,Bellevue,WA,Alan Frintu,Skel xray-lower limb NOS,538.0
+2005-01-11,Kirkland,Kirkland,WA,Joe Stevens,Bellevue,WA,Robert Hodges,Retroperitoneal xray NEC,234.0
+2005-01-11,Redmond,Redmond,WA,Carol Hernandez,Bellevue,WA,Alan Frintu,Skel xray-lower limb NOS,538.0
+2005-01-11,Kirkland,Kirkland,WA,Joe Stevens,Bellevue,WA,Robert Hodges,Retroperitoneal xray NEC,234.0
+2005-01-11,Kirkland,Kirkland,WA,Joe Stevens,Bellevue,WA,Robert Hodges,Retroperitoneal xray NEC,234.0
+2005-01-11,Kirkland,Kirkland,WA,Kay Suffin,Mill Creek,WA,Lee Casts,Ther ultrasound of heart,438.0
+2005-01-11,Kirkland,Kirkland,WA,Joe Stevens,Bellevue,WA,Robert Hodges,Retroperitoneal xray NEC,234.0
+2005-01-11,Kirkland,Kirkland,WA,Kay Suffin,Mill Creek,WA,Lee Casts,Ther ultrasound of heart,438.0
+2005-01-11,Kirkland,Kirkland,WA,Kay Suffin,Mill Creek,WA,Lee Casts,Ther ultrasound of heart,438.0
+2005-01-11,Kirkland,Kirkland,WA,Brian Lucerne,Lynnwood,WA,Lee Casts,Interview & evaluat NOS,188.0
+2005-01-11,Kirkland,Kirkland,WA,Kay Suffin,Mill Creek,WA,Lee Casts,Ther ultrasound of heart,438.0
+2005-01-11,Kirkland,Kirkland,WA,Brian Lucerne,Lynnwood,WA,Lee Casts,Interview & evaluat NOS,188.0
+2005-01-11,Kirkland,Kirkland,WA,Brian Lucerne,Lynnwood,WA,Lee Casts,Interview & evaluat NOS,188.0
+2005-01-11,Kirkland,Kirkland,WA,Carol Hernandez,Bellevue,WA,Lee Casts,Other skeletal x-ray,788.0
+2005-01-11,Kirkland,Kirkland,WA,Brian Lucerne,Lynnwood,WA,Lee Casts,Interview & evaluat NOS,188.0
+2005-01-11,Kirkland,Kirkland,WA,Carol Hernandez,Bellevue,WA,Lee Casts,Other skeletal x-ray,788.0
+2005-01-11,Kirkland,Kirkland,WA,Carol Hernandez,Bellevue,WA,Lee Casts,Other skeletal x-ray,788.0
+2005-01-11,Kirkland,Kirkland,WA,Kendra Harrington,Woodnville,WA,Lee Casts," not otherwise specified,Skel xray-upper limb NOS",488.0
+2005-01-11,Kirkland,Kirkland,WA,Carol Hernandez,Bellevue,WA,Lee Casts,Other skeletal x-ray,788.0
+2005-01-11,Kirkland,Kirkland,WA,Kendra Harrington,Woodnville,WA,Lee Casts," not otherwise specified,Skel xray-upper limb NOS",488.0
